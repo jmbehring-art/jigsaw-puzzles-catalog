@@ -191,5 +191,19 @@
     "url": "https://commons.wikimedia.org/wiki/File:Cappadocia_Aerial_View_Landscape.jpg",
     "site": "Wikimedia Commons",
     "about": "Kappadokien in Zentralanatolien ist berühmt für seine Landschaft aus Tuffstein: Vulkanasche verfestigte sich zu weichem Gestein, aus dem Wind und Wasser Täler, Kegel und „Feenkamine“ formten. Seit Jahrhunderten gruben Menschen Wohnungen, Kirchen und sogar ganze unterirdische Städte in den Fels. Der Nationalpark Göreme gehört seit 1985 zum UNESCO-Welterbe."
+  },
+  {
+    "id": "hamburger_michel",
+    "title": "Hamburger Michel",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Hamburg_kosciol_sw_Michala_11.jpg/1280px-Hamburg_kosciol_sw_Michala_11.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Hamburg_kosciol_sw_Michala_11.jpg/500px-Hamburg_kosciol_sw_Michala_11.jpg",
+    "width": 1280,
+    "height": 1920,
+    "credit": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Hamburg_kosciol_sw_Michala_11.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Hauptkirche St. Michaelis, kurz „Michel“, ist das Wahrzeichen Hamburgs. Die barocke Kirche entstand im 18. Jahrhundert, nachdem ihr Vorgängerbau durch einen Blitzschlag abgebrannt war. Ihr 132 Meter hoher Turm trägt die größte Turmuhr Deutschlands und war lange ein Orientierungspunkt für die Schiffe auf der Elbe."
   }
 ]
