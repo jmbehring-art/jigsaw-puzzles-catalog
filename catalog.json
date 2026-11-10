@@ -40,5 +40,19 @@
     "url": "https://commons.wikimedia.org/wiki/File:Burano_Venice_17.jpg",
     "site": "Wikimedia Commons",
     "about": "Burano ist eine kleine Insel in der Lagune von Venedig, berühmt für ihre Klöppelspitze und ihre leuchtend bunt gestrichenen Häuser. Der Überlieferung nach bemalten die Fischer ihre Häuser so kräftig, damit sie sie auch bei Nebel vom Wasser aus erkennen konnten."
+  },
+  {
+    "id": "berliner_dom_bei_nacht",
+    "title": "Berliner Dom bei Nacht",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Berliner_Dom%2C_Nacht%2C_160316%2C_ako.jpg/1920px-Berliner_Dom%2C_Nacht%2C_160316%2C_ako.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Berliner_Dom%2C_Nacht%2C_160316%2C_ako.jpg/500px-Berliner_Dom%2C_Nacht%2C_160316%2C_ako.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Ansgar Koreng",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "url": "https://commons.wikimedia.org/wiki/File:Berliner_Dom,_Nacht,_160316,_ako.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Der Berliner Dom auf der Museumsinsel wurde 1894 bis 1905 nach Plänen von Julius Raschdorff erbaut und ist die größte evangelische Kirche Berlins. Unter dem Dom liegt die Gruft der Hohenzollern mit fast hundert Särgen der brandenburgischen Kurfürsten und preußischen Könige."
   }
 ]
