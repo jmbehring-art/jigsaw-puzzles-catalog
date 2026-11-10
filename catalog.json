@@ -1,5 +1,44 @@
 [
   {
+    "id": "piazza_dei_miracoli_in_pisa",
+    "title": "Piazza dei Miracoli in Pisa",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Piazza_dei_miracoli_-_aerial_panorama.jpg/1920px-Piazza_dei_miracoli_-_aerial_panorama.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Piazza_dei_miracoli_-_aerial_panorama.jpg/500px-Piazza_dei_miracoli_-_aerial_panorama.jpg",
+    "width": 1920,
+    "height": 1080,
+    "credit": "Guglielmo Giambartolomei",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Piazza_dei_miracoli_-_aerial_panorama.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Piazza dei Miracoli, der „Platz der Wunder“, vereint in Pisa Dom, Baptisterium, Friedhof und den berühmten Schiefen Turm auf einer weiten Rasenfläche. Der Glockenturm begann sich schon während des Baus im 12. Jahrhundert zu neigen, weil der weiche Boden nachgab. Seit Sicherungsarbeiten um das Jahr 2000 steht er wieder etwas gerader.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:24:59"
+  },
+  {
+    "id": "chioggia_an_der_adria",
+    "title": "Chioggia an der Adria",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Chioggia_BW_4.JPG/1920px-Chioggia_BW_4.JPG",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Chioggia_BW_4.JPG/500px-Chioggia_BW_4.JPG",
+    "width": 1920,
+    "height": 1287,
+    "credit": "Berthold Werner",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Chioggia_BW_4.JPG",
+    "site": "Wikimedia Commons",
+    "about": "Chioggia liegt am Südende der Lagune von Venedig an der nördlichen Adria und wird wegen seiner Kanäle auch „Klein-Venedig“ genannt. Die bunten Häuser spiegeln sich im Wasser der Kanäle, und im Hafen liegt eine der größten Fischereiflotten Italiens.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:24:58"
+  },
+  {
     "id": "grand_place_in_bruessel",
     "title": "Grand-Place in Brüssel",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Grand_Place_1-7_during_civil_twilight%2C_Brussels_%28DSCF1982%29.jpg/1920px-Grand_Place_1-7_during_civil_twilight%2C_Brussels_%28DSCF1982%29.jpg",
