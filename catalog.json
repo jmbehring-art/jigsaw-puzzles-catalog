@@ -68,5 +68,18 @@
     "url": "https://commons.wikimedia.org/wiki/File:Parc_national_de_la_Jacques-Cartier,_Quebec,_Canada_22.jpg",
     "site": "Wikimedia Commons",
     "about": "Der Nationalpark Jacques-Cartier liegt nördlich der Stadt Québec in Kanada. Der Fluss Jacques-Cartier hat sich hier ein tiefes Tal gegraben, gesäumt von dichten Nadel- und Laubwäldern. Im Hintergrund erhebt sich der 727 Meter hohe Mont Sautauriski, der früher „Berg der Wölfe“ hieß."
+  },
+  {
+    "id": "der_schrei",
+    "title": "Der Schrei",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg/1280px-Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg/500px-Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg",
+    "width": 1280,
+    "height": 1618,
+    "credit": "Edvard Munch",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Edvard Munch (1863–1944) malte „Der Schrei“ 1893 mit Öl, Tempera und Pastell auf Karton. Die Szene zeigt den Blick vom Ekeberg-Hügel über den Oslofjord. Munch beschrieb, wie sich der Himmel blutrot färbte und er „einen großen, unendlichen Schrei durch die Natur“ spürte. Das Bild gilt als Ikone des Expressionismus; Munch schuf mehrere Fassungen."
   }
 ]
