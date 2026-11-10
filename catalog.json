@@ -1,5 +1,65 @@
 [
   {
+    "id": "riva_del_garda",
+    "title": "Riva del Garda",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Riva_del_Garda%2C_Italy.jpg/1920px-Riva_del_Garda%2C_Italy.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Riva_del_Garda%2C_Italy.jpg/500px-Riva_del_Garda%2C_Italy.jpg",
+    "width": 1920,
+    "height": 1278,
+    "credit": "High Contrast",
+    "license": "CC BY 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+    "url": "https://commons.wikimedia.org/wiki/File:Riva_del_Garda,_Italy.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Riva del Garda liegt am Nordufer des Gardasees, eingerahmt von steilen Bergen. Über dem Hafen erhebt sich der mittelalterliche Torre Apponale, das Wahrzeichen der Stadt. Der beständige Wind am nördlichen Gardasee macht Riva zu einem beliebten Ort für Segler und Surfer.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:27:08"
+  },
+  {
+    "id": "domplatz_in_brixen",
+    "title": "Domplatz in Brixen",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Brixen_Domplatz_3.jpg/1920px-Brixen_Domplatz_3.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Brixen_Domplatz_3.jpg/500px-Brixen_Domplatz_3.jpg",
+    "width": 1920,
+    "height": 1358,
+    "credit": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Brixen_Domplatz_3.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Brixen im Eisacktal gilt als älteste Stadt Tirols und war über Jahrhunderte Sitz der Fürstbischöfe. Am Domplatz stehen die beiden Türme des barocken Doms und farbenfrohe Bürgerhäuser. Rund um die Altstadt beginnen die Weinberge und Almen des Eisacktals.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:27:07"
+  },
+  {
+    "id": "waltherplatz_in_bozen",
+    "title": "Waltherplatz in Bozen",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Bozen_Waltherplatz.JPG/1920px-Bozen_Waltherplatz.JPG",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Bozen_Waltherplatz.JPG/500px-Bozen_Waltherplatz.JPG",
+    "width": 1920,
+    "height": 1440,
+    "credit": "Benreis",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bozen_Waltherplatz.JPG",
+    "site": "Wikimedia Commons",
+    "about": "Der Waltherplatz ist das Herz von Bozen, der Hauptstadt Südtirols. In seiner Mitte steht das Denkmal des mittelalterlichen Dichters Walther von der Vogelweide, dahinter ragt der gotische Turm des Doms auf. Im Advent findet hier der bekannte Christkindlmarkt statt.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:27:06"
+  },
+  {
     "id": "piazza_dei_miracoli_in_pisa",
     "title": "Piazza dei Miracoli in Pisa",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Piazza_dei_miracoli_-_aerial_panorama.jpg/1920px-Piazza_dei_miracoli_-_aerial_panorama.jpg",
