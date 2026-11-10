@@ -54,5 +54,19 @@
     "url": "https://commons.wikimedia.org/wiki/File:Berliner_Dom,_Nacht,_160316,_ako.jpg",
     "site": "Wikimedia Commons",
     "about": "Der Berliner Dom auf der Museumsinsel wurde 1894 bis 1905 nach Plänen von Julius Raschdorff erbaut und ist die größte evangelische Kirche Berlins. Unter dem Dom liegt die Gruft der Hohenzollern mit fast hundert Särgen der brandenburgischen Kurfürsten und preußischen Könige."
+  },
+  {
+    "id": "flusstal_in_quebec",
+    "title": "Flusstal in Québec",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Parc_national_de_la_Jacques-Cartier%2C_Quebec%2C_Canada_22.jpg/1920px-Parc_national_de_la_Jacques-Cartier%2C_Quebec%2C_Canada_22.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Parc_national_de_la_Jacques-Cartier%2C_Quebec%2C_Canada_22.jpg/500px-Parc_national_de_la_Jacques-Cartier%2C_Quebec%2C_Canada_22.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Wilfredor",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "url": "https://commons.wikimedia.org/wiki/File:Parc_national_de_la_Jacques-Cartier,_Quebec,_Canada_22.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Der Nationalpark Jacques-Cartier liegt nördlich der Stadt Québec in Kanada. Der Fluss Jacques-Cartier hat sich hier ein tiefes Tal gegraben, gesäumt von dichten Nadel- und Laubwäldern. Im Hintergrund erhebt sich der 727 Meter hohe Mont Sautauriski, der früher „Berg der Wölfe“ hieß."
   }
 ]
