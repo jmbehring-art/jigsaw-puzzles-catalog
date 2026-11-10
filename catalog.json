@@ -1,5 +1,24 @@
 [
   {
+    "id": "edinburgh_castle",
+    "title": "Edinburgh Castle",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Edinburgh_%2C_Edinburgh_Castle_-_geograph.org.uk_-_4960267.jpg/1920px-Edinburgh_%2C_Edinburgh_Castle_-_geograph.org.uk_-_4960267.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Edinburgh_%2C_Edinburgh_Castle_-_geograph.org.uk_-_4960267.jpg/500px-Edinburgh_%2C_Edinburgh_Castle_-_geograph.org.uk_-_4960267.jpg",
+    "width": 1920,
+    "height": 1440,
+    "credit": "Lewis Clarke",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Edinburgh_,_Edinburgh_Castle_-_geograph.org.uk_-_4960267.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Edinburgh Castle thront auf einem erloschenen Vulkan, dem Castle Rock, hoch über der schottischen Hauptstadt. Der Burgfelsen ist seit der Bronzezeit besiedelt, das älteste erhaltene Gebäude ist die kleine St.-Margarets-Kapelle aus dem 12. Jahrhundert. In der Burg werden die schottischen Kronjuwelen aufbewahrt.",
+    "tags": [
+      "Europa",
+      "Burgen & Schlösser"
+    ],
+    "added": "2026-11-10T16:12:17"
+  },
+  {
     "id": "sonnenuntergang_vor_zoutelande",
     "title": "Sonnenuntergang vor Zoutelande",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoutelande_%28NL%29%2C_Strand%2C_Blick_auf_die_Nordsee_--_2022_--_4984.jpg/1920px-Zoutelande_%28NL%29%2C_Strand%2C_Blick_auf_die_Nordsee_--_2022_--_4984.jpg",
