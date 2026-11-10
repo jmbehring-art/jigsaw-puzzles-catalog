@@ -1,5 +1,41 @@
 [
   {
+    "id": "sonnenuntergang_vor_zoutelande",
+    "title": "Sonnenuntergang vor Zoutelande",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoutelande_%28NL%29%2C_Strand%2C_Blick_auf_die_Nordsee_--_2022_--_4984.jpg/1920px-Zoutelande_%28NL%29%2C_Strand%2C_Blick_auf_die_Nordsee_--_2022_--_4984.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoutelande_%28NL%29%2C_Strand%2C_Blick_auf_die_Nordsee_--_2022_--_4984.jpg/500px-Zoutelande_%28NL%29%2C_Strand%2C_Blick_auf_die_Nordsee_--_2022_--_4984.jpg",
+    "width": 1920,
+    "height": 1440,
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Zoutelande_(NL),_Strand,_Blick_auf_die_Nordsee_--_2022_--_4984.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Zoutelande ist ein kleiner Badeort in der niederländischen Provinz Zeeland auf der Halbinsel Walcheren. Vom Strand aus geht die Sonne direkt über der Nordsee unter, oft mit Segelbooten im Gegenlicht. Bei klarem Wetter ziehen draußen auch die großen Schiffe auf dem Weg nach Antwerpen vorbei.",
+    "tags": [
+      "Europa",
+      "Natur"
+    ],
+    "added": "2026-11-10T16:10:35"
+  },
+  {
+    "id": "sommerabend_am_strand_von_skagen",
+    "title": "Sommerabend am Strand von Skagen",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/P_S_Kr%C3%B8yer_1899_-_Sommeraften_ved_Skagens_strand._Kunstneren_og_hans_hustru.jpg/1920px-P_S_Kr%C3%B8yer_1899_-_Sommeraften_ved_Skagens_strand._Kunstneren_og_hans_hustru.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/P_S_Kr%C3%B8yer_1899_-_Sommeraften_ved_Skagens_strand._Kunstneren_og_hans_hustru.jpg/500px-P_S_Kr%C3%B8yer_1899_-_Sommeraften_ved_Skagens_strand._Kunstneren_og_hans_hustru.jpg",
+    "width": 1920,
+    "height": 1369,
+    "credit": "Peder Severin Krøyer",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:P_S_Kr%C3%B8yer_1899_-_Sommeraften_ved_Skagens_strand._Kunstneren_og_hans_hustru.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Peder Severin Krøyer malte 1899 sich selbst und seine Frau Marie bei einem Abendspaziergang am Strand von Skagen, der Nordspitze Dänemarks. Das bläuliche Licht der hellen Sommernächte, die „blaue Stunde“, war das Lieblingsmotiv der Skagen-Maler. Das Bild hängt in der Hirschsprung-Sammlung in Kopenhagen.",
+    "tags": [
+      "Kunst"
+    ],
+    "added": "2026-11-10T16:09:58"
+  },
+  {
     "id": "hund_am_strand_von_valdovino",
     "title": "Hund am Strand von Valdoviño",
     "imageUrl": "https://images.unsplash.com/photo-1794066171454-631d426ceeaf?ixid=M3wxMTI5NTQxfDB8MXxhbGx8fHx8fHx8fHwxNzk0MzIzMjczfA&ixlib=rb-4.1.0&w=1920&q=85&fm=jpg&fit=max",
