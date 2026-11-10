@@ -1,5 +1,25 @@
 [
   {
+    "id": "bibione_aus_der_luft",
+    "title": "Bibione aus der Luft",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_Bibione_%28view_from_the_southwest%29.jpg/1920px-Aerial_image_of_Bibione_%28view_from_the_southwest%29.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_Bibione_%28view_from_the_southwest%29.jpg/500px-Aerial_image_of_Bibione_%28view_from_the_southwest%29.jpg",
+    "width": 1920,
+    "height": 1209,
+    "credit": "Carsten Steger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Bibione_(view_from_the_southwest).jpg",
+    "site": "Wikimedia Commons",
+    "about": "Bibione liegt an der nördlichen Adria zwischen den Mündungen von Tagliamento und Lemene. Der Badeort entstand erst ab den 1950er-Jahren auf einer Halbinsel mit Pinienwäldern und gehört heute zu den beliebtesten Urlaubsorten Italiens. Sein kilometerlanger, flacher Sandstrand ist mit langen Reihen bunter Sonnenschirme gesäumt.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:51:56"
+  },
+  {
     "id": "villach_in_kaernten",
     "title": "Villach in Kärnten",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg/1920px-Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg",
@@ -193,8 +213,7 @@
     "about": "Chioggia liegt am Südende der Lagune von Venedig an der nördlichen Adria und wird wegen seiner Kanäle auch „Klein-Venedig“ genannt. Die bunten Häuser spiegeln sich im Wasser der Kanäle, und im Hafen liegt eine der größten Fischereiflotten Italiens.",
     "tags": [
       "Europa",
-      "Städte & Dörfer",
-      "Urlaubsziele"
+      "Städte & Dörfer"
     ],
     "added": "2026-11-10T16:24:58"
   },
