@@ -1,5 +1,243 @@
 [
   {
+    "id": "grand_place_in_bruessel",
+    "title": "Grand-Place in Brüssel",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Grand_Place_1-7_during_civil_twilight%2C_Brussels_%28DSCF1982%29.jpg/1920px-Grand_Place_1-7_during_civil_twilight%2C_Brussels_%28DSCF1982%29.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Grand_Place_1-7_during_civil_twilight%2C_Brussels_%28DSCF1982%29.jpg/500px-Grand_Place_1-7_during_civil_twilight%2C_Brussels_%28DSCF1982%29.jpg",
+    "width": 1920,
+    "height": 1429,
+    "credit": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Grand_Place_1-7_during_civil_twilight,_Brussels_(DSCF1982).jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Grand-Place im Herzen Brüssels gilt als einer der schönsten Marktplätze der Welt. Nach der Zerstörung durch französische Truppen 1695 bauten die Zünfte ihre prächtigen Häuser mit vergoldeten Fassaden in wenigen Jahren wieder auf. Seit 1998 gehört der Platz zum UNESCO-Welterbe.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:23:37"
+  },
+  {
+    "id": "asklepieion_auf_kos",
+    "title": "Asklepieion auf Kos",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/The_ruins_of_Asklepieion_%28Kos%29_06.jpg/1920px-The_ruins_of_Asklepieion_%28Kos%29_06.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/The_ruins_of_Asklepieion_%28Kos%29_06.jpg/500px-The_ruins_of_Asklepieion_%28Kos%29_06.jpg",
+    "width": 1920,
+    "height": 1440,
+    "credit": "Rodw",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:The_ruins_of_Asklepieion_(Kos)_06.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Das Asklepieion auf Kos war in der Antike ein berühmtes Heilzentrum, benannt nach Asklepios, dem Gott der Heilkunst. Die Anlage zieht sich über mehrere Terrassen einen Hang oberhalb von Kos-Stadt hinauf, mit weitem Blick bis zur türkischen Küste. Der Überlieferung nach lehrte hier der Arzt Hippokrates, der auf Kos geboren wurde.",
+    "tags": [
+      "Europa",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:23:31"
+  },
+  {
+    "id": "bergamo",
+    "title": "Bergamo",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg/1920px-The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg/500px-The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg",
+    "width": 1920,
+    "height": 1373,
+    "credit": "Ввласенко",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Bergamo besteht aus zwei Teilen: der Unterstadt in der Ebene und der mittelalterlichen Città Alta auf einem Hügel, umgeben von venezianischen Stadtmauern. Eine Standseilbahn verbindet beide Stadtteile. Die Mauern gehören seit 2017 zum UNESCO-Welterbe.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:21:53"
+  },
+  {
+    "id": "weinberge_im_piemont",
+    "title": "Weinberge im Piemont",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Vineyards_-_Barolo%2C_Cuneo%2C_Itay_-_November_2%2C_2021_01.jpg/1920px-Vineyards_-_Barolo%2C_Cuneo%2C_Itay_-_November_2%2C_2021_01.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Vineyards_-_Barolo%2C_Cuneo%2C_Itay_-_November_2%2C_2021_01.jpg/500px-Vineyards_-_Barolo%2C_Cuneo%2C_Itay_-_November_2%2C_2021_01.jpg",
+    "width": 1920,
+    "height": 864,
+    "credit": "Giorgio Galeotti",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Vineyards_-_Barolo,_Cuneo,_Itay_-_November_2,_2021_01.jpg",
+    "site": "Wikimedia Commons",
+    "about": "In den Hügeln der Langhe im Piemont wachsen die Trauben für den Barolo, einen der berühmtesten Rotweine Italiens. Im Herbst färben sich die Weinberge gelb, orange und rot. Die Weinlandschaft gehört seit 2014 zum UNESCO-Welterbe.",
+    "tags": [
+      "Europa",
+      "Natur",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:21:52"
+  },
+  {
+    "id": "trullo_in_apulien",
+    "title": "Trullo in Apulien",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Trulli_in_Alberobello_2015.jpg/1920px-Trulli_in_Alberobello_2015.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Trulli_in_Alberobello_2015.jpg/500px-Trulli_in_Alberobello_2015.jpg",
+    "width": 1920,
+    "height": 1507,
+    "credit": "Livioandronico2013",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Trulli_in_Alberobello_2015.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Trulli sind die typischen Rundhäuser Apuliens. Ihre kegelförmigen Dächer bestehen aus Kalksteinplatten, die ganz ohne Mörtel aufgeschichtet werden. In Alberobello stehen über tausend davon, der Ort gehört zum UNESCO-Welterbe.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:21:51"
+  },
+  {
+    "id": "mont_blanc",
+    "title": "Mont Blanc",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mont_Blanc_from_Les_Arcs_1950.jpg/1920px-Mont_Blanc_from_Les_Arcs_1950.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mont_Blanc_from_Les_Arcs_1950.jpg/500px-Mont_Blanc_from_Les_Arcs_1950.jpg",
+    "width": 1920,
+    "height": 1080,
+    "credit": "Dmitry A. Mottl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mont_Blanc_from_Les_Arcs_1950.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Der Mont Blanc ist mit rund 4800 Metern der höchste Berg der Alpen und liegt an der Grenze zwischen Frankreich und Italien. Hier ist er vom Skiort Les Arcs in Savoyen aus zu sehen, mit einer linsenförmigen Föhnwolke darüber. Erstmals bestiegen wurde er im Jahr 1786.",
+    "tags": [
+      "Europa",
+      "Natur",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:21:50"
+  },
+  {
+    "id": "vulkanlandschaft_timanfaya_auf_lanzarote",
+    "title": "Vulkanlandschaft Timanfaya auf Lanzarote",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Timanfaya-_Lanzarote-_Illas_Canarias-_Spain-T20.jpg/1920px-Timanfaya-_Lanzarote-_Illas_Canarias-_Spain-T20.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Timanfaya-_Lanzarote-_Illas_Canarias-_Spain-T20.jpg/500px-Timanfaya-_Lanzarote-_Illas_Canarias-_Spain-T20.jpg",
+    "width": 1920,
+    "height": 1076,
+    "credit": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Timanfaya-_Lanzarote-_Illas_Canarias-_Spain-T20.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Im Nationalpark Timanfaya auf Lanzarote zeugen Vulkankegel in Rot, Braun und Schwarz von gewaltigen Ausbrüchen zwischen 1730 und 1736. Wenige Meter unter der Oberfläche ist der Boden bis heute mehrere hundert Grad heiß.",
+    "tags": [
+      "Europa",
+      "Natur",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:21:49"
+  },
+  {
+    "id": "lagune_von_balos_auf_kreta",
+    "title": "Lagune von Balos auf Kreta",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Balos_1.jpg/1920px-Balos_1.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Balos_1.jpg/500px-Balos_1.jpg",
+    "width": 1920,
+    "height": 1439,
+    "credit": "Olaf Tausch",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "url": "https://commons.wikimedia.org/wiki/File:Balos_1.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Lagune von Balos liegt im Nordwesten Kretas auf der Halbinsel Gramvousa. Flaches, türkisfarbenes Wasser umspült hellen Sand, im Hintergrund erhebt sich die Felseninsel Gramvousa mit den Resten einer venezianischen Festung.",
+    "tags": [
+      "Europa",
+      "Natur",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:21:47"
+  },
+  {
+    "id": "playa_de_sotavento_auf_fuerteventura",
+    "title": "Playa de Sotavento auf Fuerteventura",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Luftbild_Playa_de_Sotavento%2C_Lagune_-_51512711614.jpg/1920px-Luftbild_Playa_de_Sotavento%2C_Lagune_-_51512711614.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Luftbild_Playa_de_Sotavento%2C_Lagune_-_51512711614.jpg/500px-Luftbild_Playa_de_Sotavento%2C_Lagune_-_51512711614.jpg",
+    "width": 1920,
+    "height": 1279,
+    "credit": "dirkvorderstrasse",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Luftbild_Playa_de_Sotavento,_Lagune_-_51512711614.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Playa de Sotavento an der Südostküste Fuerteventuras erstreckt sich kilometerlang an der Halbinsel Jandía. Bei Flut entsteht hinter einer Sandbank eine flache Lagune mit türkisfarbenem Wasser. Der beständige Wind macht den Strand zu einem beliebten Revier für Wind- und Kitesurfer.",
+    "tags": [
+      "Europa",
+      "Natur",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:21:46"
+  },
+  {
+    "id": "kloster_vlacherna_auf_korfu",
+    "title": "Kloster Vlacherna auf Korfu",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Corfu_Vlacherna_R01.jpg/1920px-Corfu_Vlacherna_R01.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Corfu_Vlacherna_R01.jpg/500px-Corfu_Vlacherna_R01.jpg",
+    "width": 1920,
+    "height": 1375,
+    "credit": "Marc Ryckaert",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Corfu_Vlacherna_R01.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Vor der Halbinsel Kanoni bei Korfu-Stadt liegt das kleine Kloster Vlacherna, über einen Steg mit dem Ufer verbunden. Dahinter erhebt sich die bewaldete Mäuseinsel Pontikonisi. Die Aussicht gehört zu den bekanntesten Postkartenmotiven Griechenlands.",
+    "tags": [
+      "Europa",
+      "Kirchen",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:21:45"
+  },
+  {
+    "id": "bucht_von_lindos_auf_rhodos",
+    "title": "Bucht von Lindos auf Rhodos",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Pier_at_Lindos._Rhodes%2C_Greece.jpg/1920px-Pier_at_Lindos._Rhodes%2C_Greece.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Pier_at_Lindos._Rhodes%2C_Greece.jpg/500px-Pier_at_Lindos._Rhodes%2C_Greece.jpg",
+    "width": 1920,
+    "height": 1273,
+    "credit": "Ввласенко",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pier_at_Lindos._Rhodes,_Greece.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Lindos an der Ostküste von Rhodos liegt mit seinen weißen Häusern unterhalb einer Akropolis hoch über dem Meer. Zu Füßen des Felsens öffnen sich kleine Buchten mit türkisfarbenem Wasser. Schon in der Antike war Lindos eine der wichtigsten Städte der Insel.",
+    "tags": [
+      "Europa",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:21:44"
+  },
+  {
+    "id": "monemvasia_auf_dem_peloponnes",
+    "title": "Monemvasia auf dem Peloponnes",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/%CE%9C%CE%BF%CE%BD%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B9%CE%AC_DJI_4359.jpg/1920px-%CE%9C%CE%BF%CE%BD%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B9%CE%AC_DJI_4359.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/%CE%9C%CE%BF%CE%BD%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B9%CE%AC_DJI_4359.jpg/500px-%CE%9C%CE%BF%CE%BD%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B9%CE%AC_DJI_4359.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "C messier",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%CE%9C%CE%BF%CE%BD%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B9%CE%AC_DJI_4359.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Monemvasia ist eine Felseninsel vor der Ostküste des Peloponnes, nur über einen Damm mit dem Festland verbunden. Am Fuß des Felsens liegt eine ummauerte Altstadt ohne Autos, oben die Ruinen der byzantinischen Oberstadt. Der Name bedeutet „einziger Zugang“.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:21:43"
+  },
+  {
     "id": "edinburgh_castle",
     "title": "Edinburgh Castle",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Edinburgh_%2C_Edinburgh_Castle_-_geograph.org.uk_-_4960267.jpg/1920px-Edinburgh_%2C_Edinburgh_Castle_-_geograph.org.uk_-_4960267.jpg",
