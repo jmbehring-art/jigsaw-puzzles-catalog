@@ -614,5 +614,31 @@
     "url": "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg",
     "site": "Wikimedia Commons",
     "about": "Georges Seurat arbeitete von 1884 bis 1886 an diesem Bild von Spaziergängern auf einer Seine-Insel bei Paris. Es besteht aus unzähligen kleinen Farbpunkten, die sich erst im Auge des Betrachters zu Flächen verbinden; die Technik heißt Pointillismus. Das Gemälde hängt im Art Institute of Chicago."
+  },
+  {
+    "id": "das_lied_der_lerche",
+    "title": "Das Lied der Lerche",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Jules_Breton%2C_le_chant_de_l%27alouette.1884.jpg/1280px-Jules_Breton%2C_le_chant_de_l%27alouette.1884.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Jules_Breton%2C_le_chant_de_l%27alouette.1884.jpg/500px-Jules_Breton%2C_le_chant_de_l%27alouette.1884.jpg",
+    "width": 1280,
+    "height": 1658,
+    "credit": "Jules Breton",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Jules_Breton,_le_chant_de_l%27alouette.1884.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Jules Breton malte „Das Lied der Lerche“ 1884. Eine junge Landarbeiterin hält mit der Sichel in der Hand inne und lauscht bei Sonnenaufgang dem Gesang einer Lerche. 1934 wählten Besucher einer Ausstellung in Chicago es zum beliebtesten Gemälde Amerikas; es hängt im Art Institute of Chicago."
+  },
+  {
+    "id": "brieflesendes_maedchen_am_offenen_fenster",
+    "title": "Brieflesendes Mädchen am offenen Fenster",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Johannes_Vermeer_-_Girl_Reading_a_Letter_by_an_Open_Window_-_Google_Art_Project.jpg/1280px-Johannes_Vermeer_-_Girl_Reading_a_Letter_by_an_Open_Window_-_Google_Art_Project.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Johannes_Vermeer_-_Girl_Reading_a_Letter_by_an_Open_Window_-_Google_Art_Project.jpg/500px-Johannes_Vermeer_-_Girl_Reading_a_Letter_by_an_Open_Window_-_Google_Art_Project.jpg",
+    "width": 1280,
+    "height": 1674,
+    "credit": "Johannes Vermeer",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Girl_Reading_a_Letter_by_an_Open_Window_-_Google_Art_Project.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Johannes Vermeer malte das brieflesende Mädchen um 1657 bis 1659. Im Licht des offenen Fensters liest eine junge Frau einen Brief, im Fensterglas spiegelt sich ihr Gesicht. Bei einer Restaurierung bis 2021 kam an der Wand ein übermaltes Bild des Liebesgottes Amor zum Vorschein; diese Aufnahme zeigt den Zustand davor. Das Gemälde hängt in der Gemäldegalerie Alte Meister in Dresden."
   }
 ]
