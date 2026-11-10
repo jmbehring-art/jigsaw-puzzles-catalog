@@ -1,5 +1,43 @@
 [
   {
+    "id": "seebruecke_von_forte_dei_marmi",
+    "title": "Seebrücke von Forte dei Marmi",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Forte_dei_Marmi_-_Pier.jpg/1920px-Forte_dei_Marmi_-_Pier.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Forte_dei_Marmi_-_Pier.jpg/500px-Forte_dei_Marmi_-_Pier.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Forte_dei_Marmi_-_Pier.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Forte dei Marmi ist ein eleganter Badeort an der Versilia-Küste in der Toskana. Von der langen Seebrücke blickt man auf die Apuanischen Alpen, aus denen seit der Römerzeit der berühmte Carrara-Marmor gebrochen wird. Früher wurde der Marmor hier auf Schiffe verladen, daher stammt auch der Name des Ortes.",
+    "tags": [
+      "Europa",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T17:00:23"
+  },
+  {
+    "id": "tagliamento_muendung_bei_lignano_riviera",
+    "title": "Tagliamento-Mündung bei Lignano Riviera",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Tagliamento%2C_la_foce_a_Lignano_Riviera_-_panoramio.jpg/1920px-Tagliamento%2C_la_foce_a_Lignano_Riviera_-_panoramio.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Tagliamento%2C_la_foce_a_Lignano_Riviera_-_panoramio.jpg/500px-Tagliamento%2C_la_foce_a_Lignano_Riviera_-_panoramio.jpg",
+    "width": 1920,
+    "height": 1440,
+    "credit": "vuere",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tagliamento,_la_foce_a_Lignano_Riviera_-_panoramio.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Bei Lignano Riviera mündet der Tagliamento in die Adria. Er gilt als einer der letzten weitgehend naturbelassenen großen Flüsse der Alpen, mit breitem Kiesbett und immer wieder neuen Flussarmen. An der Mündung trifft das ruhige Flusswasser auf das Meer.",
+    "tags": [
+      "Europa",
+      "Natur"
+    ],
+    "added": "2026-11-10T17:00:22"
+  },
+  {
     "id": "steg_in_der_lagune_von_lignano",
     "title": "Steg in der Lagune von Lignano",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Belvedere_Trabucco%2C_Lignano_Sabbiadoro.jpg/1920px-Belvedere_Trabucco%2C_Lignano_Sabbiadoro.jpg",
