@@ -1,5 +1,45 @@
 [
   {
+    "id": "blick_ueber_den_plattensee",
+    "title": "Blick über den Plattensee",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Lake_Balaton_at_Tihany%2C_Hungary.jpg/1920px-Lake_Balaton_at_Tihany%2C_Hungary.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Lake_Balaton_at_Tihany%2C_Hungary.jpg/500px-Lake_Balaton_at_Tihany%2C_Hungary.jpg",
+    "width": 1920,
+    "height": 1228,
+    "credit": "Takkk",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lake_Balaton_at_Tihany,_Hungary.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Von der Halbinsel Tihany reicht der Blick weit über den Plattensee, ungarisch Balaton. Er ist der größte See Mitteleuropas, im Durchschnitt aber nur gut drei Meter tief und erwärmt sich deshalb im Sommer schnell. Auf der Halbinsel steht eine Benediktinerabtei, die im 11. Jahrhundert gegründet wurde.",
+    "tags": [
+      "Europa",
+      "Natur",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:30:29"
+  },
+  {
+    "id": "triberger_wasserfaelle",
+    "title": "Triberger Wasserfälle",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Triberger_Wasserf%C3%A4lle_20180806_03.jpg/1920px-Triberger_Wasserf%C3%A4lle_20180806_03.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Triberger_Wasserf%C3%A4lle_20180806_03.jpg/500px-Triberger_Wasserf%C3%A4lle_20180806_03.jpg",
+    "width": 1920,
+    "height": 1323,
+    "credit": "Uoaei1",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Triberger_Wasserf%C3%A4lle_20180806_03.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Triberger Wasserfälle im Schwarzwald stürzen über sieben Stufen insgesamt rund 160 Meter in die Tiefe und zählen zu den höchsten Wasserfällen Deutschlands. Die Gutach rauscht dabei durch steilen Tannenwald und über moosbedeckte Granitfelsen. Im Wasserfallgelände leben viele zutrauliche Eichhörnchen.",
+    "tags": [
+      "Deutschland",
+      "Natur",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:30:28"
+  },
+  {
     "id": "rosengarten_in_siofok_am_plattensee",
     "title": "Rosengarten in Siófok am Plattensee",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Si%C3%B3fok_R%C3%B3zsakert_12.jpg/1920px-Si%C3%B3fok_R%C3%B3zsakert_12.jpg",
