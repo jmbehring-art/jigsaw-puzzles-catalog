@@ -1,5 +1,25 @@
 [
   {
+    "id": "preisfrage",
+    "title": "Preisfrage",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/M%C3%B6gglingen_-_M%C3%BCndung_der_Lauter_in_die_Rems.jpg/1920px-M%C3%B6gglingen_-_M%C3%BCndung_der_Lauter_in_die_Rems.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/M%C3%B6gglingen_-_M%C3%BCndung_der_Lauter_in_die_Rems.jpg/500px-M%C3%B6gglingen_-_M%C3%BCndung_der_Lauter_in_die_Rems.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Geak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:M%C3%B6gglingen_-_M%C3%BCndung_der_Lauter_in_die_Rems.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Preisfrage",
+    "tags": [
+      "Deutschland",
+      "Natur",
+      "Heimat"
+    ],
+    "added": "2026-11-11T15:48:10"
+  },
+  {
     "id": "albblick_vom_limeswanderweg",
     "title": "Albblick vom Limeswanderweg",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Landappbw_281795_1817_Albblick_zwischen_Heuchlingen_und_M%C3%B6gglingen.jpg/1920px-Landappbw_281795_1817_Albblick_zwischen_Heuchlingen_und_M%C3%B6gglingen.jpg",
