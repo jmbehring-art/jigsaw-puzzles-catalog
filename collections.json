@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Urlaubsziele",
+    "ids": [
+      "petersdom_ueber_dem_tiber",
+      "seebruecke_von_forte_dei_marmi",
+      "steg_in_der_lagune_von_lignano",
+      "bibione_aus_der_luft",
+      "villach_in_kaernten",
+      "kolosseum_in_rom",
+      "blick_ueber_den_plattensee",
+      "triberger_wasserfaelle",
+      "rosengarten_in_siofok_am_plattensee",
+      "riva_del_garda",
+      "domplatz_in_brixen",
+      "waltherplatz_in_bozen",
+      "piazza_dei_miracoli_in_pisa",
+      "grand_place_in_bruessel",
+      "asklepieion_auf_kos",
+      "bergamo",
+      "weinberge_im_piemont",
+      "trullo_in_apulien",
+      "mont_blanc",
+      "vulkanlandschaft_timanfaya_auf_lanzarote",
+      "lagune_von_balos_auf_kreta",
+      "playa_de_sotavento_auf_fuerteventura",
+      "kloster_vlacherna_auf_korfu",
+      "bucht_von_lindos_auf_rhodos",
+      "monemvasia_auf_dem_peloponnes"
+    ],
+    "cover": "bucht_von_lindos_auf_rhodos"
+  },
+  {
+    "title": "Heimat",
+    "ids": [
+      "preisfrage",
+      "albblick_vom_limeswanderweg",
+      "fruehsommer_zwischen_lein_und_remstal",
+      "im_heilig_kreuz_muenster",
+      "heilig_kreuz_muenster_in_schwaebisch_gmuend",
+      "drei_kaiserberge",
+      "alte_kirche_in_strassdorf",
+      "dorfbrunnen_in_moegglingen",
+      "altes_rathaus_in_aalen",
+      "josefsbach_in_schwaebisch_gmuend",
+      "rosenstein_bei_heubach"
+    ],
+    "cover": "rosenstein_bei_heubach"
+  },
+  {
+    "title": "Geschichte",
+    "ids": [
+      "voltas_experiment_vor_napoleon",
+      "eroeffnung_der_eisenbahn_liverpoolmanchester",
+      "bau_des_eiffelturms",
+      "die_erste_eisenbahnfahrt_in_deutschland",
+      "wrights_erster_flugversuch_ueber_den_duenen"
+    ],
+    "cover": "die_erste_eisenbahnfahrt_in_deutschland"
+  }
+]
