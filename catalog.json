@@ -1,5 +1,22 @@
 [
   {
+    "id": "whirlpool_galaxie",
+    "title": "Whirlpool-Galaxie",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/1920px-Messier51_sRGB.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/500px-Messier51_sRGB.jpg",
+    "width": 1920,
+    "height": 1332,
+    "credit": "NASA and European Space Agency",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Messier51_sRGB.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Whirlpool-Galaxie im Sternbild Jagdhunde ist eine Spiralgalaxie wie unsere Milchstraße, aber mehr als 20 Millionen Lichtjahre entfernt. Ihre kleinere Nachbargalaxie rechts zieht mit ihrer Schwerkraft an den Spiralarmen. In den rosa leuchtenden Flecken entstehen gerade neue Sterne. Aufgenommen hat das Bild das Weltraumteleskop Hubble im Jahr 2005.",
+    "tags": [
+      "Weltall"
+    ],
+    "added": "2026-11-11T10:19:38"
+  },
+  {
     "id": "rosettennebel",
     "title": "Rosettennebel",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Rosette_Nebula_Captured_with_DECam_%28noirlab2424a%29.jpg/1920px-Rosette_Nebula_Captured_with_DECam_%28noirlab2424a%29.jpg",
