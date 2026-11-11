@@ -1,5 +1,11 @@
 [
   {
+    "title": "Alle Bilder",
+    "all": true,
+    "ids": [],
+    "cover": "festung_marienberg_in_wuerzburg"
+  },
+  {
     "title": "Urlaubsziele",
     "ids": [
       "petersdom_ueber_dem_tiber",
