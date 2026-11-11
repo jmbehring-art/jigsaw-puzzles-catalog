@@ -1,5 +1,44 @@
 [
   {
+    "id": "petersdom_ueber_dem_tiber",
+    "title": "Petersdom über dem Tiber",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg/1920px-Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg/500px-Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg",
+    "width": 1920,
+    "height": 1243,
+    "credit": "Jebulon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ponte_Vittorio_Emanuele_II_San_Pietro,_Rome,_Italy.jpg",
+    "site": "Wikimedia Commons",
+    "about": "In der Abenddämmerung leuchtet die Kuppel des Petersdoms über den Dächern Roms. Michelangelo hat sie entworfen, vollendet wurde sie erst nach seinem Tod. Im Vordergrund überspannt die Ponte Vittorio Emanuele II den Tiber, eine Brücke aus dem frühen 20. Jahrhundert mit Figurengruppen auf hohen Sockeln.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-11T10:00:21"
+  },
+  {
+    "id": "grand_prismatic_spring_im_yellowstone",
+    "title": "Grand Prismatic Spring im Yellowstone",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/1920px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/500px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg",
+    "width": 1920,
+    "height": 1258,
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Grand_Prismatic_Spring_--_2022_--_2514.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Grand Prismatic Spring im Yellowstone-Nationalpark ist die größte heiße Quelle der USA. Ihre leuchtenden Farben stammen von winzigen Lebewesen, die im heißen, abfließenden Wasser dichte Matten bilden, je nach Temperatur gelb, orange oder rot. Über dem Wasser steigt ständig Dampf auf. Yellowstone wurde 1872 gegründet und gilt als erster Nationalpark der Welt.",
+    "tags": [
+      "Welt",
+      "Natur"
+    ],
+    "added": "2026-11-11T10:00:20"
+  },
+  {
     "id": "lower_manhattan_in_der_abenddaemmerung",
     "title": "Lower Manhattan in der Abenddämmerung",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg/1920px-Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg",
