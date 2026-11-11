@@ -1,5 +1,23 @@
 [
   {
+    "id": "friedrichs_kreidefelsen_auf_ruegen",
+    "title": "Friedrichs Kreidefelsen auf Rügen",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg/1280px-Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg/500px-Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg",
+    "width": 1280,
+    "height": 1651,
+    "credit": "Caspar David Friedrich",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_(1818).jpg",
+    "site": "Wikimedia Commons",
+    "about": "Caspar David Friedrich malte die weißen Kreidefelsen auf Rügen im Jahr 1818, dem Jahr seiner Hochzeit. Drei Menschen blicken vom Rand der Klippe hinab auf das weite, ruhige Meer, eingerahmt von zwei Bäumen. Friedrich ist der bekannteste Maler der deutschen Romantik.",
+    "tags": [
+      "Kunst",
+      "Natur"
+    ],
+    "added": "2026-11-11T10:26:45"
+  },
+  {
     "id": "drei_maedchen_mit_gelben_strohhueten",
     "title": "Drei Mädchen mit gelben Strohhüten",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg/1280px-August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg",
@@ -1590,7 +1608,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "url": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigsstuhl_und_Viktoria-Sicht.jpg",
     "site": "Wikimedia Commons",
-    "about": "Caspar David Friedrich malte die weißen Kreidefelsen auf Rügen im Jahr 1818, dem Jahr seiner Hochzeit. Drei Menschen blicken vom Rand der Klippe hinab auf das weite, ruhige Meer, eingerahmt von zwei Bäumen. Friedrich ist der bekannteste Maler der deutschen Romantik.",
+    "about": "Die Kreidefelsen im Nationalpark Jasmund auf Rügen ragen bis zu 118 Meter steil aus der Ostsee. Der bekannteste Felsen ist der Königsstuhl. Caspar David Friedrich machte die Kreideküste um 1818 mit einem berühmten Gemälde unsterblich.",
     "tags": [
       "Deutschland",
       "Natur"
