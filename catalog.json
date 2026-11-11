@@ -1,5 +1,20 @@
 [
   {
+    "id": "entenmutter_mit_kueken",
+    "title": "Entenmutter mit Küken",
+    "imageUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/entenmutter_mit_kueken.jpg",
+    "thumbUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/entenmutter_mit_kueken_thumb.jpg",
+    "width": 1920,
+    "height": 1072,
+    "credit": "Mit KI erzeugt (Gemini)",
+    "about": "Auf demselben Parkteich wie der Erpel schwimmt hier eine braun gesprenkelte Stockentenmutter, und hinter ihr paddeln fünf flauschige Küken brav in einer Reihe. Bei den Stockenten kümmert sich allein die Mutter um den Nachwuchs, ihr unauffälliges Gefieder schützt sie beim Brüten. Am Ufer warten die gleiche Bank und die gleichen Spaziergänger.",
+    "tags": [
+      "Natur",
+      "Tiere"
+    ],
+    "added": "2026-11-11T13:44:25"
+  },
+  {
     "id": "wellensittiche_vor_dem_buecherregal",
     "title": "Wellensittiche vor dem Bücherregal",
     "imageUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/wellensittiche_vor_dem_buecherregal.jpg",
@@ -14,21 +29,6 @@
     "added": "2026-11-11T12:57:39"
   },
   {
-    "id": "entenfamilie_auf_dem_parkteich",
-    "title": "Entenfamilie auf dem Parkteich",
-    "imageUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/entenfamilie_auf_dem_parkteich.jpg",
-    "thumbUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/entenfamilie_auf_dem_parkteich_thumb.jpg",
-    "width": 1920,
-    "height": 1072,
-    "credit": "Mit KI erzeugt (Gemini)",
-    "about": "Derselbe Parkteich, aber diesmal nicht allein: Hinter der Stockente schwimmen fünf flauschige Küken brav in einer Reihe. Wer genau hinschaut, entdeckt am Ufer die gleiche Bank und die gleichen Spaziergänger wie auf dem Bild mit dem einzelnen Erpel.",
-    "tags": [
-      "Natur",
-      "Tiere"
-    ],
-    "added": "2026-11-11T12:51:32"
-  },
-  {
     "id": "erpel_auf_dem_parkteich",
     "title": "Erpel auf dem Parkteich",
     "imageUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/erpel_auf_dem_parkteich.jpg",
@@ -36,7 +36,7 @@
     "width": 1920,
     "height": 1072,
     "credit": "Mit KI erzeugt (Gemini)",
-    "about": "Ein Stockentenerpel mit grün schillerndem Kopf zieht gemächlich seine Bahn über einen klaren Parkteich. Am Ufer blühen Stauden in Lila und Rosa, Trauerweiden lassen ihre Zweige hängen, und auf dem Weg lädt eine Bank zum Ausruhen ein.",
+    "about": "Ein Stockentenerpel mit grün schillerndem Kopf zieht gemächlich seine Bahn über einen klaren Parkteich. Am Ufer blühen Stauden in Lila und Rosa, Trauerweiden lassen ihre Zweige hängen, und auf dem Weg lädt eine Bank zum Ausruhen ein. Auf einem anderen Bild ist am selben Teich die Entenmutter mit ihren Küken unterwegs.",
     "tags": [
       "Natur",
       "Tiere"
