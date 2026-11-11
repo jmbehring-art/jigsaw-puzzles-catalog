@@ -1,5 +1,83 @@
 [
   {
+    "id": "im_heilig_kreuz_muenster",
+    "title": "Im Heilig-Kreuz-Münster",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Schw%C3%A4bisch_Gm%C3%BCnd_-_Altstadt_-_Heilig-Kreuz-M%C3%BCnster_-_Innenansicht_-_Blick_zum_Altar_%281%29.jpg/1920px-Schw%C3%A4bisch_Gm%C3%BCnd_-_Altstadt_-_Heilig-Kreuz-M%C3%BCnster_-_Innenansicht_-_Blick_zum_Altar_%281%29.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Schw%C3%A4bisch_Gm%C3%BCnd_-_Altstadt_-_Heilig-Kreuz-M%C3%BCnster_-_Innenansicht_-_Blick_zum_Altar_%281%29.jpg/500px-Schw%C3%A4bisch_Gm%C3%BCnd_-_Altstadt_-_Heilig-Kreuz-M%C3%BCnster_-_Innenansicht_-_Blick_zum_Altar_%281%29.jpg",
+    "width": 1920,
+    "height": 1607,
+    "credit": "Roman Eisele",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Schw%C3%A4bisch_Gm%C3%BCnd_-_Altstadt_-_Heilig-Kreuz-M%C3%BCnster_-_Innenansicht_-_Blick_zum_Altar_(1).jpg",
+    "site": "Wikimedia Commons",
+    "about": "Im Heilig-Kreuz-Münster sind alle Schiffe gleich hoch, so fällt das Licht von allen Seiten in den weiten Raum. Diese Bauform einer Hallenkirche geht auf Heinrich Parler den Älteren zurück, den Vater von Peter Parler. Die Netzgewölbe kamen erst um 1500 hinzu, nachdem die ursprünglichen Gewölbe eingestürzt waren.",
+    "tags": [
+      "Deutschland",
+      "Kirchen",
+      "Heimat"
+    ],
+    "added": "2026-11-11T15:39:10"
+  },
+  {
+    "id": "heilig_kreuz_muenster_in_schwaebisch_gmuend",
+    "title": "Heilig-Kreuz-Münster in Schwäbisch Gmünd",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Schw%C3%A4bisch-Gm%C3%BCnd-M%C3%BCnster-Zeiselberg.jpg/1920px-Schw%C3%A4bisch-Gm%C3%BCnd-M%C3%BCnster-Zeiselberg.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Schw%C3%A4bisch-Gm%C3%BCnd-M%C3%BCnster-Zeiselberg.jpg/500px-Schw%C3%A4bisch-Gm%C3%BCnd-M%C3%BCnster-Zeiselberg.jpg",
+    "width": 1920,
+    "height": 1436,
+    "credit": "Kreuzschnabel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Schw%C3%A4bisch-Gm%C3%BCnd-M%C3%BCnster-Zeiselberg.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Über den Dächern von Schwäbisch Gmünd erhebt sich das Heilig-Kreuz-Münster. Ab 1351 baute hier Heinrich Parler der Ältere den Chor als große Hallenkirche, ein Vorbild für viele Kirchen in Süddeutschland. Sein Sohn Peter Parler lernte hier das Bauhandwerk, bevor er nach Prag ging und dort den Veitsdom und die Karlsbrücke baute.",
+    "tags": [
+      "Deutschland",
+      "Kirchen",
+      "Heimat"
+    ],
+    "added": "2026-11-11T15:39:09"
+  },
+  {
+    "id": "altstaedter_brueckenturm_in_prag",
+    "title": "Altstädter Brückenturm in Prag",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Prague_Charles_Bridge_2021_04.jpg/1280px-Prague_Charles_Bridge_2021_04.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Prague_Charles_Bridge_2021_04.jpg/500px-Prague_Charles_Bridge_2021_04.jpg",
+    "width": 1280,
+    "height": 1925,
+    "credit": "Scotch Mist",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Prague_Charles_Bridge_2021_04.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Am Altstädter Ufer bewacht dieser Turm den Zugang zur Karlsbrücke. Er entstand im späten 14. Jahrhundert in der Werkstatt von Peter Parler und gilt als einer der schönsten gotischen Tortürme Europas. An seiner Ostseite sitzen steinerne Figuren von Kaiser Karl IV. und seinem Sohn Wenzel.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer"
+    ],
+    "added": "2026-11-11T15:39:08"
+  },
+  {
+    "id": "veitsdom_auf_der_prager_burg",
+    "title": "Veitsdom auf der Prager Burg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Prag%2C_Prager_Burg%2C_Veitsdom_--_2019_--_6621.jpg/1920px-Prag%2C_Prager_Burg%2C_Veitsdom_--_2019_--_6621.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Prag%2C_Prager_Burg%2C_Veitsdom_--_2019_--_6621.jpg/500px-Prag%2C_Prager_Burg%2C_Veitsdom_--_2019_--_6621.jpg",
+    "width": 1920,
+    "height": 1440,
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Prag,_Prager_Burg,_Veitsdom_--_2019_--_6621.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Den Bau des Veitsdoms begann 1344 der französische Baumeister Matthias von Arras. Nach seinem Tod übernahm der erst gut zwanzigjährige Peter Parler aus Schwäbisch Gmünd die Bauleitung und schuf den hohen Chor mit seinen Strebebögen und kühnen Gewölben. Vollendet wurde die Kathedrale erst 1929, fast 600 Jahre nach der Grundsteinlegung.",
+    "tags": [
+      "Europa",
+      "Kirchen"
+    ],
+    "added": "2026-11-11T15:39:06"
+  },
+  {
     "id": "bau_des_eiffelturms",
     "title": "Bau des Eiffelturms",
     "imageUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/bau_des_eiffelturms.jpg",
@@ -1757,7 +1835,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "url": "https://commons.wikimedia.org/wiki/File:North_view_of_Charles_Bridge_from_M%C3%A1nes%C5%AFv_most,_Prague_20160808_1.jpg",
     "site": "Wikimedia Commons",
-    "about": "Die Karlsbrücke überspannt seit dem 14. Jahrhundert die Moldau in Prag. Kaiser Karl IV. legte 1357 den Grundstein, auf ihren Brüstungen stehen heute 30 barocke Statuen. Bis 1841 war sie die einzige Brücke über den Fluss in der Stadt.",
+    "about": "Kaiser Karl IV. ließ 1357 den Bau einer steinernen Brücke über die Moldau beginnen, die Bauleitung hatte Peter Parler. Die Karlsbrücke ist über 500 Meter lang und ruht auf 16 Bögen. Die vielen Heiligenfiguren auf der Brüstung kamen erst Jahrhunderte später in der Barockzeit hinzu.",
     "tags": [
       "Europa",
       "Städte & Dörfer"
