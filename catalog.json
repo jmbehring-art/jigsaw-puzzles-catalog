@@ -1,5 +1,60 @@
 [
   {
+    "id": "strauss_aus_rosen_und_freesien",
+    "title": "Strauß aus Rosen und Freesien",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/My_bouquet..._%282949945463%29.jpg/1920px-My_bouquet..._%282949945463%29.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/My_bouquet..._%282949945463%29.jpg/500px-My_bouquet..._%282949945463%29.jpg",
+    "width": 1920,
+    "height": 1606,
+    "credit": "Catherine from Australia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:My_bouquet..._(2949945463).jpg",
+    "site": "Wikimedia Commons",
+    "about": "Zartrosa Rosen und weiße Freesien sind zu einem runden, dichten Strauß gebunden. Freesien duften besonders süß und werden gern für festliche Sträuße verwendet. Dieser hat einen ganzen Festtag überstanden und sieht noch immer frisch aus.",
+    "tags": [
+      "Blumen"
+    ],
+    "added": "2026-11-11T10:14:37"
+  },
+  {
+    "id": "wildblumen_aus_kreta",
+    "title": "Wildblumen aus Kreta",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg/1920px-Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg/500px-Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Petro Stelte",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Bei Sitia im Osten Kretas wurden diese Wildblumen gepflückt und in ein einfaches Glas gestellt. Die weiß-gelben Blüten der Kronen-Wucherblume wachsen im Frühling überall auf der Insel am Wegrand, dazwischen leuchten lila Blüten. Auf den Blättern glitzern noch Regentropfen.",
+    "tags": [
+      "Europa",
+      "Blumen"
+    ],
+    "added": "2026-11-11T10:14:36"
+  },
+  {
+    "id": "blumenstrauss_unterm_weihnachtsbaum",
+    "title": "Blumenstrauß unterm Weihnachtsbaum",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Flower_bouquet_for_a_newborn_in_Christmas.jpg/1920px-Flower_bouquet_for_a_newborn_in_Christmas.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Flower_bouquet_for_a_newborn_in_Christmas.jpg/500px-Flower_bouquet_for_a_newborn_in_Christmas.jpg",
+    "width": 1920,
+    "height": 1440,
+    "credit": "M&A",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Flower_bouquet_for_a_newborn_in_Christmas.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Dieser Strauß wurde zur Geburt eines Kindes in der Weihnachtszeit verschenkt. Leuchtend orange Gerbera, gelbe Rosen und weiße Lisianthus mit lila Rand stehen zwischen zartem Schleierkraut, eingehüllt in ein orangefarbenes Netz. Dahinter funkeln die Lichter des Weihnachtsbaums über den Geschenken.",
+    "tags": [
+      "Blumen"
+    ],
+    "added": "2026-11-11T10:14:35"
+  },
+  {
     "id": "fontaine_de_tourny_in_quebec",
     "title": "Fontaine de Tourny in Québec",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Fontaine_de_Tourny%2C_Centre-Ville_de_Qu%C3%A9bec_alt.jpg/1920px-Fontaine_de_Tourny%2C_Centre-Ville_de_Qu%C3%A9bec_alt.jpg",
