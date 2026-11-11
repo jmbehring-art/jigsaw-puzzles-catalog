@@ -1,5 +1,25 @@
 [
   {
+    "id": "drei_kaiserberge",
+    "title": "Drei Kaiserberge",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Drei_Kaiserberge.jpg/1920px-Drei_Kaiserberge.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Drei_Kaiserberge.jpg/500px-Drei_Kaiserberge.jpg",
+    "width": 1920,
+    "height": 677,
+    "credit": "Pwagenblast",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Drei_Kaiserberge.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Hohenstaufen, Rechberg und Stuifen heißen die drei Kaiserberge am Nordrand der Schwäbischen Alb zwischen Schwäbisch Gmünd und Göppingen. Ihren Namen verdanken sie den Staufern, deren Stammburg einst auf dem Hohenstaufen stand. Das Foto entstand im Frühling vom Hornberg aus, mit Blick über Wälder, Wiesen und Dörfer bis weit ins Land.",
+    "tags": [
+      "Deutschland",
+      "Natur",
+      "Heimat"
+    ],
+    "added": "2026-11-11T09:48:47"
+  },
+  {
     "id": "alte_kirche_in_strassdorf",
     "title": "Alte Kirche in Straßdorf",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Strassdorf_2013_001.JPG/1920px-Strassdorf_2013_001.JPG",
