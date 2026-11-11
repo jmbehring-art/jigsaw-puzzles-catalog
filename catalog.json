@@ -1,5 +1,162 @@
 [
   {
+    "id": "drei_maedchen_mit_gelben_strohhueten",
+    "title": "Drei Mädchen mit gelben Strohhüten",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg/1280px-August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg/500px-August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg",
+    "width": 1280,
+    "height": 1810,
+    "credit": "August Macke",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg",
+    "site": "Wikimedia Commons",
+    "about": "August Macke gehörte zum Kreis des Blauen Reiters und liebte heitere Szenen aus dem Alltag. Hier stehen drei Mädchen mit großen Strohhüten zwischen Bäumen in kräftigen, flächigen Farben. Macke fiel schon 1914 im Ersten Weltkrieg, mit nur 27 Jahren.",
+    "tags": [
+      "Kunst"
+    ],
+    "added": "2026-11-11T10:24:56"
+  },
+  {
+    "id": "blaues_pferd_i",
+    "title": "Blaues Pferd I",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Marc_Blaues_Pferd_I_PA291036.jpg/1280px-Marc_Blaues_Pferd_I_PA291036.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Marc_Blaues_Pferd_I_PA291036.jpg/500px-Marc_Blaues_Pferd_I_PA291036.jpg",
+    "width": 1280,
+    "height": 1719,
+    "credit": "Franz Marc",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Marc_Blaues_Pferd_I_PA291036.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Franz Marc malte 1911 dieses junge blaue Pferd vor einer Landschaft aus leuchtenden Farben. Für ihn stand Blau für das Geistige und Ruhige. Im selben Jahr gründete er mit Wassily Kandinsky die Künstlergruppe „Der Blaue Reiter“. Das Bild gehört dem Lenbachhaus in München.",
+    "tags": [
+      "Kunst",
+      "Tiere"
+    ],
+    "added": "2026-11-11T10:24:55"
+  },
+  {
+    "id": "floetenkonzert_in_sanssouci",
+    "title": "Flötenkonzert in Sanssouci",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg/1920px-Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg/500px-Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+    "width": 1920,
+    "height": 1318,
+    "credit": "Adolph von Menzel",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Adolph Menzel malte um 1850, wie König Friedrich der Große im Schloss Sanssouci vor seinen Gästen Flöte spielt, begleitet von einem kleinen Orchester. Das Licht der Kerzen am Kronleuchter lässt den Saal golden schimmern. Das Gemälde hängt in der Alten Nationalgalerie in Berlin.",
+    "tags": [
+      "Kunst"
+    ],
+    "added": "2026-11-11T10:24:54"
+  },
+  {
+    "id": "der_arme_poet",
+    "title": "Der arme Poet",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Carl_Spitzweg_-_Der_arme_Poet_%28Neue_Pinakothek%29.jpg/1920px-Carl_Spitzweg_-_Der_arme_Poet_%28Neue_Pinakothek%29.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Carl_Spitzweg_-_Der_arme_Poet_%28Neue_Pinakothek%29.jpg/500px-Carl_Spitzweg_-_Der_arme_Poet_%28Neue_Pinakothek%29.jpg",
+    "width": 1920,
+    "height": 1501,
+    "credit": "Carl Spitzweg",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_Der_arme_Poet_(Neue_Pinakothek).jpg",
+    "site": "Wikimedia Commons",
+    "about": "Carl Spitzweg zeigt mit Witz einen Dichter, der in seiner kalten Dachkammer im Bett liegt und Verse zählt. Gegen das undichte Dach hat er einen Regenschirm aufgespannt, und im Ofen verheizt er seine eigenen Manuskripte. Das Bild von 1839 gehört zu den beliebtesten Gemälden in Deutschland.",
+    "tags": [
+      "Kunst"
+    ],
+    "added": "2026-11-11T10:24:53"
+  },
+  {
+    "id": "der_kaufmann_georg_gisze",
+    "title": "Der Kaufmann Georg Gisze",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Portrait_of_Georg_Gisze%2C_by_Hans_Holbein_the_Younger.jpg/1280px-Portrait_of_Georg_Gisze%2C_by_Hans_Holbein_the_Younger.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Portrait_of_Georg_Gisze%2C_by_Hans_Holbein_the_Younger.jpg/500px-Portrait_of_Georg_Gisze%2C_by_Hans_Holbein_the_Younger.jpg",
+    "width": 1280,
+    "height": 1534,
+    "credit": "Hans Holbein the Younger",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Georg_Gisze,_by_Hans_Holbein_the_Younger.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Hans Holbein der Jüngere malte 1532 in London den Danziger Kaufmann Georg Gisze in seinem Kontor. Ringsum liegen Briefe, Siegel, eine Waage und eine Uhr, auf dem Tisch eine Glasvase mit Nelken und ein prächtiger Teppich. Jedes Ding ist mit großer Sorgfalt gemalt. Das Bild hängt in der Gemäldegalerie in Berlin.",
+    "tags": [
+      "Kunst"
+    ],
+    "added": "2026-11-11T10:24:51"
+  },
+  {
+    "id": "donaulandschaft_bei_regensburg",
+    "title": "Donaulandschaft bei Regensburg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Landscape_of_Danube_near_Regensburg%2C_Albrecht_Altdorfer%2C_W.A.F._30%2C_Alte_Pinakothek_Munich.jpg/1280px-Landscape_of_Danube_near_Regensburg%2C_Albrecht_Altdorfer%2C_W.A.F._30%2C_Alte_Pinakothek_Munich.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Landscape_of_Danube_near_Regensburg%2C_Albrecht_Altdorfer%2C_W.A.F._30%2C_Alte_Pinakothek_Munich.jpg/500px-Landscape_of_Danube_near_Regensburg%2C_Albrecht_Altdorfer%2C_W.A.F._30%2C_Alte_Pinakothek_Munich.jpg",
+    "width": 1280,
+    "height": 1689,
+    "credit": "Albrecht Altdorfer",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Landscape_of_Danube_near_Regensburg,_Albrecht_Altdorfer,_W.A.F._30,_Alte_Pinakothek_Munich.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Albrecht Altdorfer aus Regensburg gehört zu den ersten Malern, die eine Landschaft ganz ohne Menschen und ohne Geschichte zum Thema eines Bildes machten. Hohe Bäume rahmen den Blick auf ein Tal mit Burg und blauen Bergen. Das kleine Gemälde hängt heute in der Alten Pinakothek in München.",
+    "tags": [
+      "Kunst",
+      "Natur"
+    ],
+    "added": "2026-11-11T10:24:50"
+  },
+  {
+    "id": "hirschjagd_des_kurfuersten_friedrich",
+    "title": "Hirschjagd des Kurfürsten Friedrich",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lucas_Cranach_d.%C3%84._-_Hirschjagd_des_Kurf%C3%BCrsten_Friedrich_des_Weisen_%28Kunsthistorisches_Museum%29.jpg/1920px-Lucas_Cranach_d.%C3%84._-_Hirschjagd_des_Kurf%C3%BCrsten_Friedrich_des_Weisen_%28Kunsthistorisches_Museum%29.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lucas_Cranach_d.%C3%84._-_Hirschjagd_des_Kurf%C3%BCrsten_Friedrich_des_Weisen_%28Kunsthistorisches_Museum%29.jpg/500px-Lucas_Cranach_d.%C3%84._-_Hirschjagd_des_Kurf%C3%BCrsten_Friedrich_des_Weisen_%28Kunsthistorisches_Museum%29.jpg",
+    "width": 1920,
+    "height": 1353,
+    "credit": "Lucas Cranach the Elder",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Hirschjagd_des_Kurf%C3%BCrsten_Friedrich_des_Weisen_(Kunsthistorisches_Museum).jpg",
+    "site": "Wikimedia Commons",
+    "about": "Lucas Cranach der Ältere war Hofmaler der sächsischen Kurfürsten in Wittenberg. Auf diesem Gemälde treiben Jäger Hirsche in einen Fluss, wo die Fürsten mit ihren Armbrüsten warten. Im Hintergrund thront eine Burg über der Landschaft, und überall gibt es kleine Szenen zu entdecken.",
+    "tags": [
+      "Kunst",
+      "Tiere"
+    ],
+    "added": "2026-11-11T10:24:49"
+  },
+  {
+    "id": "bildnis_einer_dame",
+    "title": "Bildnis einer Dame",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Hans_Baldung_Grien_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg/1280px-Hans_Baldung_Grien_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Hans_Baldung_Grien_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg/500px-Hans_Baldung_Grien_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg",
+    "width": 1280,
+    "height": 1674,
+    "credit": "Hans Baldung Grien",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Hans_Baldung_Grien_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Hans Baldung, genannt Grien, lernte in der Werkstatt Albrecht Dürers und arbeitete später vor allem in Straßburg. Seinen Beinamen verdankt er wohl seiner Vorliebe für die Farbe Grün. Das Bildnis zeigt eine junge Frau mit breitem Hut, Perlenkette und kostbar besticktem Kleid vor dunklem Grund.",
+    "tags": [
+      "Kunst"
+    ],
+    "added": "2026-11-11T10:24:48"
+  },
+  {
+    "id": "feldhase",
+    "title": "Feldhase",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/1280px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/500px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg",
+    "width": 1280,
+    "height": 1414,
+    "credit": "Albrecht Dürer",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Albrecht Dürer malte den Feldhasen 1502 mit Wasser- und Deckfarben so genau, dass man fast jedes einzelne Haar sieht. In den Augen spiegelt sich sogar ein Fensterkreuz. Das Blatt gehört zu den berühmtesten Tierdarstellungen der Kunstgeschichte und wird in der Albertina in Wien aufbewahrt.",
+    "tags": [
+      "Kunst",
+      "Tiere"
+    ],
+    "added": "2026-11-11T10:24:47"
+  },
+  {
     "id": "whirlpool_galaxie",
     "title": "Whirlpool-Galaxie",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/1920px-Messier51_sRGB.jpg",
@@ -1433,7 +1590,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "url": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigsstuhl_und_Viktoria-Sicht.jpg",
     "site": "Wikimedia Commons",
-    "about": "Die Kreidefelsen im Nationalpark Jasmund auf Rügen ragen bis zu 118 Meter steil aus der Ostsee. Der bekannteste Felsen ist der Königsstuhl. Caspar David Friedrich machte die Kreideküste um 1818 mit einem berühmten Gemälde unsterblich.",
+    "about": "Caspar David Friedrich malte die weißen Kreidefelsen auf Rügen im Jahr 1818, dem Jahr seiner Hochzeit. Drei Menschen blicken vom Rand der Klippe hinab auf das weite, ruhige Meer, eingerahmt von zwei Bäumen. Friedrich ist der bekannteste Maler der deutschen Romantik.",
     "tags": [
       "Deutschland",
       "Natur"
