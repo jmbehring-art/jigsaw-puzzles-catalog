@@ -1,5 +1,45 @@
 [
   {
+    "id": "alte_kirche_in_strassdorf",
+    "title": "Alte Kirche in Straßdorf",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Strassdorf_2013_001.JPG/1920px-Strassdorf_2013_001.JPG",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Strassdorf_2013_001.JPG/500px-Strassdorf_2013_001.JPG",
+    "width": 1920,
+    "height": 1440,
+    "credit": "Klaus Graf",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Strassdorf_2013_001.JPG",
+    "site": "Wikimedia Commons",
+    "about": "Straßdorf gehört heute zu Schwäbisch Gmünd und liegt südlich der Stadt, nahe den drei Kaiserbergen Hohenstaufen, Rechberg und Stuifen. Die Alte Kirche mit ihrem achteckigen Turmaufsatz und dem gemusterten Ziegeldach steht inmitten des Friedhofs, umgeben von einer Mauer aus Naturstein.",
+    "tags": [
+      "Deutschland",
+      "Kirchen",
+      "Heimat"
+    ],
+    "added": "2026-11-11T09:33:42"
+  },
+  {
+    "id": "dorfbrunnen_in_moegglingen",
+    "title": "Dorfbrunnen in Mögglingen",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2015_Brunnen_M%C3%B6gglingen.jpg/1920px-2015_Brunnen_M%C3%B6gglingen.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2015_Brunnen_M%C3%B6gglingen.jpg/500px-2015_Brunnen_M%C3%B6gglingen.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Kreuzschnabel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2015_Brunnen_M%C3%B6gglingen.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Mögglingen liegt im Remstal zwischen Schwäbisch Gmünd und Aalen. Mitten im Ort steht dieser Brunnen aus hellem Stein, gekrönt von einem Hahn und Hühnern aus Bronze. Ringsum laden Holzbänke zu einer Pause ein.",
+    "tags": [
+      "Deutschland",
+      "Städte & Dörfer",
+      "Heimat"
+    ],
+    "added": "2026-11-11T09:33:41"
+  },
+  {
     "id": "altes_rathaus_in_aalen",
     "title": "Altes Rathaus in Aalen",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Aalen_Joseph.jpg/1280px-Aalen_Joseph.jpg",
@@ -14,7 +54,8 @@
     "about": "Am Marktplatz von Aalen steht das Alte Rathaus mit seinem weißen Uhrturm. Oben im Turm schaut der „Spion von Aalen“ heraus, eine Figur, die zum Wahrzeichen der Stadt geworden ist. Davor erhebt sich der Marktbrunnen mit dem farbig bemalten Standbild Kaiser Josephs I. aus der Zeit, als Aalen noch freie Reichsstadt war.",
     "tags": [
       "Deutschland",
-      "Städte & Dörfer"
+      "Städte & Dörfer",
+      "Heimat"
     ],
     "added": "2026-11-11T09:30:11"
   },
@@ -33,7 +74,8 @@
     "about": "Lange floss der Josefsbach in Schwäbisch Gmünd unter der Erde. Zur Landesgartenschau 2014 wurde er wieder freigelegt und mit Steinen, Ufergrün und einem Fußweg gestaltet. Der goldene Bau im Hintergrund ist das Forum Gold und Silber, eine Erinnerung an die lange Tradition der Gold- und Silberschmiede in der Stadt.",
     "tags": [
       "Deutschland",
-      "Städte & Dörfer"
+      "Städte & Dörfer",
+      "Heimat"
     ],
     "added": "2026-11-11T09:28:24"
   },
@@ -52,7 +94,8 @@
     "about": "Der Rosenstein erhebt sich am Nordrand der Schwäbischen Alb über dem Städtchen Heubach im Ostalbkreis. Oben auf dem bewaldeten Berg liegen die Ruine einer mittelalterlichen Burg, mehrere Höhlen und helle Kalkfelsen mit weitem Blick ins Albvorland. Berg und Umgebung stehen unter Naturschutz.",
     "tags": [
       "Deutschland",
-      "Natur"
+      "Natur",
+      "Heimat"
     ],
     "added": "2026-11-11T09:21:19"
   },
