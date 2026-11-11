@@ -1,5 +1,23 @@
 [
   {
+    "id": "rosettennebel",
+    "title": "Rosettennebel",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Rosette_Nebula_Captured_with_DECam_%28noirlab2424a%29.jpg/1920px-Rosette_Nebula_Captured_with_DECam_%28noirlab2424a%29.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Rosette_Nebula_Captured_with_DECam_%28noirlab2424a%29.jpg/500px-Rosette_Nebula_Captured_with_DECam_%28noirlab2424a%29.jpg",
+    "width": 1920,
+    "height": 1634,
+    "credit": "CTIO/NOIRLab/DOE/NSF/AURA, T.A. Rector, D. de Martin & M. Zamani",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Rosette_Nebula_Captured_with_DECam_(noirlab2424a).jpg",
+    "site": "Wikimedia Commons",
+    "about": "Der Rosettennebel ist eine riesige Wolke aus Gas und Staub im Sternbild Einhorn, rund 5000 Lichtjahre von uns entfernt. In seiner Mitte sitzt ein junger Sternhaufen, dessen Licht das Gas in Rot, Gold und Violett zum Leuchten bringt. Aufgenommen wurde das Bild mit einer der größten Digitalkameras der Welt an einem Teleskop in den chilenischen Anden.",
+    "tags": [
+      "Weltall"
+    ],
+    "added": "2026-11-11T10:17:36"
+  },
+  {
     "id": "strauss_aus_rosen_und_freesien",
     "title": "Strauß aus Rosen und Freesien",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/My_bouquet..._%282949945463%29.jpg/1920px-My_bouquet..._%282949945463%29.jpg",
