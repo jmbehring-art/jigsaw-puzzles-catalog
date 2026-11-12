@@ -1,5 +1,24 @@
 [
   {
+    "id": "polarlicht_ueber_polen",
+    "title": "Polarlicht über Polen",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Zorza_polarna%2C_Lucim-01.jpg/1920px-Zorza_polarna%2C_Lucim-01.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Zorza_polarna%2C_Lucim-01.jpg/500px-Zorza_polarna%2C_Lucim-01.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Aneta p",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Zorza_polarna,_Lucim-01.jpg",
+    "site": "Wikimedia Commons",
+    "about": "In der Nacht vom 10. auf den 11. Oktober 2024 löste ein heftiger Sonnensturm Polarlichter aus, die bis weit nach Mitteleuropa zu sehen waren. Dieses Foto entstand gegen halb zwei Uhr nachts bei dem Dorf Lucim nahe Bydgoszcz in Polen. Rote und grüne Lichtvorhänge leuchten hoch über einer einsamen Landstraße.",
+    "tags": [
+      "Natur",
+      "Europa"
+    ],
+    "added": "2026-11-12T15:31:52"
+  },
+  {
     "id": "empanadas_aus_vigan",
     "title": "Empanadas aus Vigan",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Empanada_de_Vigan.jpg/1920px-Empanada_de_Vigan.jpg",
@@ -330,6 +349,25 @@
     "added": "2026-11-11T15:39:08"
   },
   {
+    "id": "veitsdom_auf_der_prager_burg",
+    "title": "Veitsdom auf der Prager Burg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Prag%2C_Prager_Burg%2C_Veitsdom_--_2019_--_6621.jpg/1920px-Prag%2C_Prager_Burg%2C_Veitsdom_--_2019_--_6621.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Prag%2C_Prager_Burg%2C_Veitsdom_--_2019_--_6621.jpg/500px-Prag%2C_Prager_Burg%2C_Veitsdom_--_2019_--_6621.jpg",
+    "width": 1920,
+    "height": 1440,
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Prag,_Prager_Burg,_Veitsdom_--_2019_--_6621.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Den Bau des Veitsdoms begann 1344 der französische Baumeister Matthias von Arras. Nach seinem Tod übernahm der erst gut zwanzigjährige Peter Parler aus Schwäbisch Gmünd die Bauleitung und schuf den hohen Chor mit seinen Strebebögen und kühnen Gewölben. Vollendet wurde die Kathedrale erst 1929, fast 600 Jahre nach der Grundsteinlegung.",
+    "tags": [
+      "Europa",
+      "Kirchen"
+    ],
+    "added": "2026-11-11T15:39:06"
+  },
+  {
     "id": "bau_des_eiffelturms",
     "title": "Bau des Eiffelturms",
     "imageUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/bau_des_eiffelturms.jpg",
@@ -538,6 +576,25 @@
       "Handarbeit"
     ],
     "added": "2026-11-11T11:33:42"
+  },
+  {
+    "id": "rote_kamelie",
+    "title": "Rote Kamelie",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Bloem_van_een_Camellia_%C3%97_williamsii_%27Roger_Hall%27._20-04-2021_%28actm.%29_01.jpg/1920px-Bloem_van_een_Camellia_%C3%97_williamsii_%27Roger_Hall%27._20-04-2021_%28actm.%29_01.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Bloem_van_een_Camellia_%C3%97_williamsii_%27Roger_Hall%27._20-04-2021_%28actm.%29_01.jpg/500px-Bloem_van_een_Camellia_%C3%97_williamsii_%27Roger_Hall%27._20-04-2021_%28actm.%29_01.jpg",
+    "width": 1920,
+    "height": 1485,
+    "credit": "Agnes Monkelbaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bloem_van_een_Camellia_%C3%97_williamsii_%27Roger_Hall%27._20-04-2021_(actm.)_01.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Kamelien stammen aus Ostasien und sind eng mit der Teepflanze verwandt. Diese tiefrote Sorte heißt „Roger Hall“, ihre Blütenblätter sind so regelmäßig angeordnet wie bei einer Rose. Damit die ganze Blüte scharf ist, hat die Fotografin elf Aufnahmen mit verschiedener Schärfe zu einem Bild zusammengesetzt.",
+    "tags": [
+      "Blumen"
+    ],
+    "mystery": true,
+    "added": "2026-11-11T10:50:13"
   },
   {
     "id": "hundestrand_im_prospect_park",
