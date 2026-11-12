@@ -1,5 +1,25 @@
 [
   {
+    "id": "burg_von_bratislava",
+    "title": "Burg von Bratislava",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Bratislava_Castle_R01.jpg/1920px-Bratislava_Castle_R01.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Bratislava_Castle_R01.jpg/500px-Bratislava_Castle_R01.jpg",
+    "width": 1920,
+    "height": 1309,
+    "credit": "Marc Ryckaert (MJJR)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bratislava_Castle_R01.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Burg mit ihren vier Ecktürmen thront über der Donau und ist das Wahrzeichen der slowakischen Hauptstadt. Als Pressburg war die Stadt lange Hauptstadt des Königreichs Ungarn. Nach einem Brand im Jahr 1811 lag die Burg rund 150 Jahre in Ruinen und wurde erst ab den 1950er-Jahren wieder aufgebaut.",
+    "tags": [
+      "Europa",
+      "Burgen & Schlösser"
+    ],
+    "mystery": true,
+    "added": "2026-11-12T14:00:34"
+  },
+  {
     "id": "terrakotta_armee_des_ersten_kaisers_von_china",
     "title": "Terrakotta-Armee des ersten Kaisers von China",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Terracotta_warriors_%2856810%29.jpg/1920px-Terracotta_warriors_%2856810%29.jpg",
