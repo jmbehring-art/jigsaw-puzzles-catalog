@@ -1,5 +1,21 @@
 [
   {
+    "id": "eroeffnung_des_suezkanals",
+    "title": "Eröffnung des Suezkanals",
+    "imageUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/eroeffnung_des_suezkanals.jpg",
+    "thumbUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/eroeffnung_des_suezkanals_thumb.jpg",
+    "width": 1920,
+    "height": 1081,
+    "credit": "Mit KI erzeugt (ChatGPT)",
+    "about": "Am 17. November 1869 wurde in Ägypten der Suezkanal feierlich eröffnet. Zehn Jahre lang hatten Zehntausende Arbeiter unter der Leitung des Franzosen Ferdinand de Lesseps die künstliche Wasserstraße durch die Wüste gegraben. Sie verbindet das Mittelmeer mit dem Roten Meer, so dass Schiffe nach Indien und Asien nicht mehr um ganz Afrika herumfahren müssen. Angeführt wurde die erste Schiffsparade von der französischen Kaiserjacht mit Kaiserin Eugénie an Bord.",
+    "tags": [
+      "Illustration",
+      "Geschichte",
+      "Welt"
+    ],
+    "added": "2026-11-12T09:31:16"
+  },
+  {
     "id": "voltas_experiment_vor_napoleon",
     "title": "Voltas Experiment vor Napoleon",
     "imageUrl": "https://jmbehring-art.github.io/jigsaw-puzzles-catalog/bilder/voltas_experiment_vor_napoleon.jpg",
@@ -435,6 +451,25 @@
       "Tiere"
     ],
     "added": "2026-11-11T10:50:12"
+  },
+  {
+    "id": "selbstgebackene_sauerteigbrote",
+    "title": "Selbstgebackene Sauerteigbrote",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Home_made_sour_dough_bread.jpg/1920px-Home_made_sour_dough_bread.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Home_made_sour_dough_bread.jpg/500px-Home_made_sour_dough_bread.jpg",
+    "width": 1920,
+    "height": 1239,
+    "credit": "Tomascastelazo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Home_made_sour_dough_bread.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Frisch aus dem Ofen liegen diese Sauerteigbrote in einem Korb auf einem rot gestreiften Leinentuch. Das Mehl auf der Kruste und die aufgerissenen Einschnitte zeigen, dass sie von Hand geformt wurden. Sauerteig braucht Zeit: Milchsäurebakterien und wilde Hefen lassen den Teig langsam gehen und geben dem Brot seinen kräftigen, leicht säuerlichen Geschmack.",
+    "tags": [
+      "Essen"
+    ],
+    "mystery": true,
+    "added": "2026-11-11T10:50:11"
   },
   {
     "id": "friedrichs_kreidefelsen_auf_ruegen",
