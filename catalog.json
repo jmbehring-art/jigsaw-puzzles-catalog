@@ -1,5 +1,24 @@
 [
   {
+    "id": "coulommiers_aus_rohmilch",
+    "title": "Coulommiers aus Rohmilch",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Coulommiers_lait_cru.jpg/1920px-Coulommiers_lait_cru.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Coulommiers_lait_cru.jpg/500px-Coulommiers_lait_cru.jpg",
+    "width": 1920,
+    "height": 1275,
+    "credit": "Myrabella",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Coulommiers_lait_cru.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Ein angeschnittener Coulommiers, ein französischer Weichkäse aus roher Kuhmilch. Er stammt aus der Gegend um die Stadt Coulommiers östlich von Paris, der Heimat des berühmten Brie, und ist mit diesem eng verwandt. Unter der weißen Schimmelrinde wird er beim Reifen immer cremiger und läuft schließlich fast aus.",
+    "tags": [
+      "Essen",
+      "Europa"
+    ],
+    "added": "2026-11-13T09:26:54"
+  },
+  {
     "id": "grauhoernchen_in_quebec",
     "title": "Grauhörnchen in Québec",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Sciurus_carolinensis_%28gray_morph%29_on_a_rock%2C_Jardin_universitaire_Roger-Van_den_Hende%2C_Quebec_City.jpg/1920px-Sciurus_carolinensis_%28gray_morph%29_on_a_rock%2C_Jardin_universitaire_Roger-Van_den_Hende%2C_Quebec_City.jpg",
