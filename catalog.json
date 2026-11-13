@@ -1,5 +1,43 @@
 [
   {
+    "id": "mangostane_aus_laos",
+    "title": "Mangostane aus Laos",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Sweet_mangosteen.jpg/1920px-Sweet_mangosteen.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Sweet_mangosteen.jpg/500px-Sweet_mangosteen.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sweet_mangosteen.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Eine aufgeschnittene Mangostane, fotografiert in Laos, liegt zwischen ganzen Früchten mit dunkelvioletter Schale und grünem Kelch. Im Inneren der dicken roten Schale sitzt das schneeweiße Fruchtfleisch in Spalten, ähnlich wie bei einer Mandarine. Es schmeckt süß, leicht säuerlich und sehr saftig, weshalb die Mangostane in Südostasien als „Königin der Früchte“ gilt.",
+    "tags": [
+      "Essen",
+      "Welt"
+    ],
+    "added": "2026-11-13T09:28:14"
+  },
+  {
+    "id": "eier_im_weidenkorb",
+    "title": "Eier im Weidenkorb",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Eggs_in_basket_2020_G1.jpg/1920px-Eggs_in_basket_2020_G1.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Eggs_in_basket_2020_G1.jpg/500px-Eggs_in_basket_2020_G1.jpg",
+    "width": 1920,
+    "height": 1920,
+    "credit": "George Chernilevsky",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Eggs_in_basket_2020_G1.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Ein geflochtener Weidenkorb voller frischer Eier steht im trockenen Gras, aufgenommen in der Ukraine. Zwischen weißen und braunen Hühnereiern liegen kleine Wachteleier mit ihrem typischen dunkel gesprenkelten Muster. Zwei weiße Federn vor dem Korb erinnern daran, woher die Eier kommen.",
+    "tags": [
+      "Essen",
+      "Europa"
+    ],
+    "added": "2026-11-13T09:28:13"
+  },
+  {
     "id": "coulommiers_aus_rohmilch",
     "title": "Coulommiers aus Rohmilch",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Coulommiers_lait_cru.jpg/1920px-Coulommiers_lait_cru.jpg",
