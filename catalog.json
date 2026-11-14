@@ -1,5 +1,42 @@
 [
   {
+    "id": "09ed893a-9b4d-4411-aea7-4e334d2b1ac5",
+    "title": "Cocktail im Trockeneisnebel",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Goblet_of_Fire_Cocktail.jpg/1920px-Goblet_of_Fire_Cocktail.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Goblet_of_Fire_Cocktail.jpg/500px-Goblet_of_Fire_Cocktail.jpg",
+    "width": 1920,
+    "height": 1254,
+    "credit": "Sumit Surai",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Goblet_of_Fire_Cocktail.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Ein hellgrüner Cocktail mit Limettenscheiben und einer kleinen Melonenkugel steht in einem bauchigen Glas über einer Schale mit Trockeneis. Das Trockeneis ist gefrorenes Kohlendioxid und so kalt, dass es nicht schmilzt, sondern direkt zu einem weißen Nebel verdampft. Der Nebel quillt über das Glas und breitet sich wie Wolken auf dem Tisch aus.",
+    "tags": [
+      "Essen"
+    ],
+    "added": "2026-11-14T13:45:51"
+  },
+  {
+    "id": "292c3c85-7612-4a9c-9d1c-4e0075399402",
+    "title": "Pandesal zum Frühstück",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Pinoy_Pandesal.jpg/1920px-Pinoy_Pandesal.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Pinoy_Pandesal.jpg/500px-Pinoy_Pandesal.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Jessartcam",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pinoy_Pandesal.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Pandesal sind kleine, weiche Brötchen mit einer Kruste aus Semmelbröseln und gehören auf den Philippinen zu fast jedem Frühstück. Man isst sie warm, pur oder mit Käse, Erdnussbutter, Marmelade oder Ei, dazu gibt es Kaffee oder heiße Schokolade. Hier dampfen sie frisch gebacken in einer Holzschale im Schein einer alten Petroleumlampe.",
+    "tags": [
+      "Essen",
+      "Asien"
+    ],
+    "added": "2026-11-14T13:45:50"
+  },
+  {
     "id": "418b1ab8-e0cc-4b13-ae00-923eeedbf59a",
     "title": "Aprikosenmarmelade mit Brot",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%D0%9C%D0%B0%D1%80%D0%BC%D0%B0%D0%BB%D0%B0%D0%B4_%D0%BE%D0%B4_%D0%BA%D0%B0%D1%98%D1%81%D0%B8%D0%B8_2.jpg/1920px-%D0%9C%D0%B0%D1%80%D0%BC%D0%B0%D0%BB%D0%B0%D0%B4_%D0%BE%D0%B4_%D0%BA%D0%B0%D1%98%D1%81%D0%B8%D0%B8_2.jpg",
@@ -938,24 +975,6 @@
     "added": "2026-11-11T10:50:11"
   },
   {
-    "id": "9057fb78-5167-4522-a2ed-af746a008551",
-    "title": "Friedrichs Kreidefelsen auf Rügen",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg/1280px-Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg",
-    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg/500px-Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg",
-    "width": 1280,
-    "height": 1651,
-    "credit": "Caspar David Friedrich",
-    "license": "Public domain",
-    "url": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_(1818).jpg",
-    "site": "Wikimedia Commons",
-    "about": "Caspar David Friedrich malte die weißen Kreidefelsen auf Rügen im Jahr 1818, dem Jahr seiner Hochzeit. Drei Menschen blicken vom Rand der Klippe hinab auf das weite, ruhige Meer, eingerahmt von zwei Bäumen. Friedrich ist der bekannteste Maler der deutschen Romantik.",
-    "tags": [
-      "Kunst",
-      "Natur"
-    ],
-    "added": "2026-11-11T10:26:45"
-  },
-  {
     "id": "767ff709-1564-4107-8e84-46e38c6b692c",
     "title": "Drei Mädchen mit gelben Strohhüten",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg/1280px-August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg",
@@ -1593,26 +1612,6 @@
     "added": "2026-11-10T16:51:56"
   },
   {
-    "id": "edce270e-9e4c-4af3-b37f-0bb47f60656c",
-    "title": "Villach in Kärnten",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg/1920px-Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg",
-    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg/500px-Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg",
-    "width": 1920,
-    "height": 1295,
-    "credit": "Johann Jaritz",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg",
-    "site": "Wikimedia Commons",
-    "about": "Villach liegt in Kärnten an der Drau, umgeben von Bergen und nicht weit von den Grenzen zu Italien und Slowenien. Über die Dächer der Altstadt reicht der Blick bis zu den Gipfeln der Umgebung. Bekannt ist die Stadt für ihren großen Fasching und die warmen Quellen im Stadtteil Warmbad.",
-    "tags": [
-      "Europa",
-      "Städte & Dörfer",
-      "Urlaubsziele"
-    ],
-    "added": "2026-11-10T16:36:05"
-  },
-  {
     "id": "f3877192-5a7f-485f-9d4a-0ff048febb6b",
     "title": "Kolosseum in Rom",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1920px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
@@ -1751,26 +1750,6 @@
       "Urlaubsziele"
     ],
     "added": "2026-11-10T16:27:06"
-  },
-  {
-    "id": "46f5f2cd-0b60-4e69-9c95-a4c3bcc1ffe7",
-    "title": "Piazza dei Miracoli in Pisa",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Piazza_dei_miracoli_-_aerial_panorama.jpg/1920px-Piazza_dei_miracoli_-_aerial_panorama.jpg",
-    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Piazza_dei_miracoli_-_aerial_panorama.jpg/500px-Piazza_dei_miracoli_-_aerial_panorama.jpg",
-    "width": 1920,
-    "height": 1080,
-    "credit": "Guglielmo Giambartolomei",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Piazza_dei_miracoli_-_aerial_panorama.jpg",
-    "site": "Wikimedia Commons",
-    "about": "Die Piazza dei Miracoli, der „Platz der Wunder“, vereint in Pisa Dom, Baptisterium, Friedhof und den berühmten Schiefen Turm auf einer weiten Rasenfläche. Der Glockenturm begann sich schon während des Baus im 12. Jahrhundert zu neigen, weil der weiche Boden nachgab. Seit Sicherungsarbeiten um das Jahr 2000 steht er wieder etwas gerader.",
-    "tags": [
-      "Europa",
-      "Städte & Dörfer",
-      "Urlaubsziele"
-    ],
-    "added": "2026-11-10T16:24:59"
   },
   {
     "id": "8a470d91-cd0e-4915-8d14-1e2141d22bb1",
