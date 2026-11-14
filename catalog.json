@@ -70,25 +70,6 @@
     "added": "2026-11-13T15:25:19"
   },
   {
-    "id": "24cbd040-a2a2-4aa4-b7cb-057f43cfce23",
-    "title": "Kirche St. Franz Xaver in Tilbury",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/St._Francis_Xavier_Church%2C_Tilbury%2C_Ontario%2C_2026-09-07_16.jpg/1920px-St._Francis_Xavier_Church%2C_Tilbury%2C_Ontario%2C_2026-09-07_16.jpg",
-    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/St._Francis_Xavier_Church%2C_Tilbury%2C_Ontario%2C_2026-09-07_16.jpg/500px-St._Francis_Xavier_Church%2C_Tilbury%2C_Ontario%2C_2026-09-07_16.jpg",
-    "width": 1920,
-    "height": 1728,
-    "credit": "Chris Woodrich",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:St._Francis_Xavier_Church,_Tilbury,_Ontario,_2026-09-07_16.jpg",
-    "site": "Wikimedia Commons",
-    "about": "Die katholische Kirche St. Franz Xaver steht in der Kleinstadt Tilbury in der kanadischen Provinz Ontario. Ihre Fassade aus rotem Backstein mit spitzen Bogenfenstern, bunten Glasfenstern und zwei ungleich hohen Türmen mit grünen Schieferhelmen leuchtet vor dem tiefblauen Septemberhimmel. Der Fotograf hat das Bild im September 2026 aus rund 30 Einzelaufnahmen zusammengesetzt.",
-    "tags": [
-      "Kirchen",
-      "Nordamerika"
-    ],
-    "added": "2026-11-13T15:18:58"
-  },
-  {
     "id": "f9fafc69-fba2-4628-87d5-23730324e036",
     "title": "Start der Raumfähre Atlantis",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/STS-125_Atlantis_Liftoff_02.jpg/1920px-STS-125_Atlantis_Liftoff_02.jpg",
@@ -162,26 +143,6 @@
       "Fahrzeuge"
     ],
     "added": "2026-11-13T13:23:19"
-  },
-  {
-    "id": "a392cb05-70d4-42f9-8bb4-11661b4dfb32",
-    "title": "Lombard Street in San Francisco",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Lombard_Street%2C_San_Francisco_California%2C_June_1987_02.jpg/1920px-Lombard_Street%2C_San_Francisco_California%2C_June_1987_02.jpg",
-    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Lombard_Street%2C_San_Francisco_California%2C_June_1987_02.jpg/500px-Lombard_Street%2C_San_Francisco_California%2C_June_1987_02.jpg",
-    "width": 1920,
-    "height": 1262,
-    "credit": "Infrogmation",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Lombard_Street,_San_Francisco_California,_June_1987_02.jpg",
-    "site": "Wikimedia Commons",
-    "about": "Die Lombard Street in San Francisco windet sich in acht engen Kurven einen steilen Hügel hinab und gilt als eine der kurvenreichsten Straßen der Welt. Zwischen den Kehren blühen Hortensien in Rosa, Lila und Weiß hinter sauber geschnittenen Hecken. Das Foto entstand im Juni 1987.",
-    "tags": [
-      "Nordamerika",
-      "Städte & Dörfer",
-      "Blumen"
-    ],
-    "added": "2026-11-13T13:20:52"
   },
   {
     "id": "f2b4a104-cb4d-40fa-9f48-705dcc84f322",
@@ -260,25 +221,6 @@
       "Asien"
     ],
     "added": "2026-11-13T09:28:14"
-  },
-  {
-    "id": "2d1ccb2a-d242-4d1d-bd31-8dce5b7d4e17",
-    "title": "Eier im Weidenkorb",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Eggs_in_basket_2020_G1.jpg/1920px-Eggs_in_basket_2020_G1.jpg",
-    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Eggs_in_basket_2020_G1.jpg/500px-Eggs_in_basket_2020_G1.jpg",
-    "width": 1920,
-    "height": 1920,
-    "credit": "George Chernilevsky",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Eggs_in_basket_2020_G1.jpg",
-    "site": "Wikimedia Commons",
-    "about": "Ein geflochtener Weidenkorb voller frischer Eier steht im trockenen Gras, aufgenommen in der Ukraine. Zwischen weißen und braunen Hühnereiern liegen kleine Wachteleier mit ihrem typischen dunkel gesprenkelten Muster. Zwei weiße Federn vor dem Korb erinnern daran, woher die Eier kommen.",
-    "tags": [
-      "Essen",
-      "Europa"
-    ],
-    "added": "2026-11-13T09:28:13"
   },
   {
     "id": "ec3d8e43-b885-4897-a8bc-09ba1f69c35d",
@@ -975,6 +917,24 @@
     "added": "2026-11-11T10:50:11"
   },
   {
+    "id": "9057fb78-5167-4522-a2ed-af746a008551",
+    "title": "Friedrichs Kreidefelsen auf Rügen",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg/1280px-Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg/500px-Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_%281818%29.jpg",
+    "width": 1280,
+    "height": 1651,
+    "credit": "Caspar David Friedrich",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Kreidefelsen_auf_R%C3%BCgen_(1818).jpg",
+    "site": "Wikimedia Commons",
+    "about": "Caspar David Friedrich malte die weißen Kreidefelsen auf Rügen im Jahr 1818, dem Jahr seiner Hochzeit. Drei Menschen blicken vom Rand der Klippe hinab auf das weite, ruhige Meer, eingerahmt von zwei Bäumen. Friedrich ist der bekannteste Maler der deutschen Romantik.",
+    "tags": [
+      "Kunst",
+      "Natur"
+    ],
+    "added": "2026-11-11T10:26:45"
+  },
+  {
     "id": "767ff709-1564-4107-8e84-46e38c6b692c",
     "title": "Drei Mädchen mit gelben Strohhüten",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg/1280px-August_Macke_-_Three_girls_in_yellow_straw_hats_I_-_Google_Art_Project.jpg",
@@ -1183,25 +1143,6 @@
       "Blumen"
     ],
     "added": "2026-11-11T10:14:37"
-  },
-  {
-    "id": "a1ce059e-55d0-4b49-8e57-2d54b3aba07e",
-    "title": "Wildblumen aus Kreta",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg/1920px-Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg",
-    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg/500px-Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg",
-    "width": 1920,
-    "height": 1280,
-    "credit": "Petro Stelte",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg",
-    "site": "Wikimedia Commons",
-    "about": "Bei Sitia im Osten Kretas wurden diese Wildblumen gepflückt und in ein einfaches Glas gestellt. Die weiß-gelben Blüten der Kronen-Wucherblume wachsen im Frühling überall auf der Insel am Wegrand, dazwischen leuchten lila Blüten. Auf den Blättern glitzern noch Regentropfen.",
-    "tags": [
-      "Europa",
-      "Blumen"
-    ],
-    "added": "2026-11-11T10:14:36"
   },
   {
     "id": "721aac68-7174-4453-9c96-0c25d64d2bf7",
@@ -1612,6 +1553,26 @@
     "added": "2026-11-10T16:51:56"
   },
   {
+    "id": "edce270e-9e4c-4af3-b37f-0bb47f60656c",
+    "title": "Villach in Kärnten",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg/1920px-Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg/500px-Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg",
+    "width": 1920,
+    "height": 1295,
+    "credit": "Johann Jaritz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Villach_Innenstadt_Burgplatz_1_Burg_mit_Kapelle_SO-Ansicht_07092015_7185.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Villach liegt in Kärnten an der Drau, umgeben von Bergen und nicht weit von den Grenzen zu Italien und Slowenien. Über die Dächer der Altstadt reicht der Blick bis zu den Gipfeln der Umgebung. Bekannt ist die Stadt für ihren großen Fasching und die warmen Quellen im Stadtteil Warmbad.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:36:05"
+  },
+  {
     "id": "f3877192-5a7f-485f-9d4a-0ff048febb6b",
     "title": "Kolosseum in Rom",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1920px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
@@ -1750,6 +1711,26 @@
       "Urlaubsziele"
     ],
     "added": "2026-11-10T16:27:06"
+  },
+  {
+    "id": "46f5f2cd-0b60-4e69-9c95-a4c3bcc1ffe7",
+    "title": "Piazza dei Miracoli in Pisa",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Piazza_dei_miracoli_-_aerial_panorama.jpg/1920px-Piazza_dei_miracoli_-_aerial_panorama.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Piazza_dei_miracoli_-_aerial_panorama.jpg/500px-Piazza_dei_miracoli_-_aerial_panorama.jpg",
+    "width": 1920,
+    "height": 1080,
+    "credit": "Guglielmo Giambartolomei",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Piazza_dei_miracoli_-_aerial_panorama.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Piazza dei Miracoli, der „Platz der Wunder“, vereint in Pisa Dom, Baptisterium, Friedhof und den berühmten Schiefen Turm auf einer weiten Rasenfläche. Der Glockenturm begann sich schon während des Baus im 12. Jahrhundert zu neigen, weil der weiche Boden nachgab. Seit Sicherungsarbeiten um das Jahr 2000 steht er wieder etwas gerader.",
+    "tags": [
+      "Europa",
+      "Städte & Dörfer",
+      "Urlaubsziele"
+    ],
+    "added": "2026-11-10T16:24:59"
   },
   {
     "id": "8a470d91-cd0e-4915-8d14-1e2141d22bb1",
@@ -2548,24 +2529,6 @@
       "Städte & Dörfer"
     ],
     "added": "2026-11-10T15:37:12"
-  },
-  {
-    "id": "f119e814-faee-4101-9fb9-35c075ee2ef7",
-    "title": "Dresden um 1900",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/1920px-Dresden_photochrom2.jpg",
-    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/500px-Dresden_photochrom2.jpg",
-    "width": 1920,
-    "height": 1406,
-    "credit": "Detroit Publishing Co.",
-    "license": "Public domain",
-    "url": "https://commons.wikimedia.org/wiki/File:Dresden_photochrom2.jpg",
-    "site": "Wikimedia Commons",
-    "about": "Dieser Photochromdruck aus der Zeit um 1900 zeigt Dresden an der Elbe mit der Augustusbrücke und der Kuppel der Frauenkirche. Die Frauenkirche wurde 1945 zerstört und bis 2005 originalgetreu wiederaufgebaut. Photochrome waren farbige Drucke nach Schwarzweißfotos und damals beliebte Ansichtsbilder.",
-    "tags": [
-      "Deutschland",
-      "Städte & Dörfer"
-    ],
-    "added": "2026-11-10T15:37:11"
   },
   {
     "id": "8ef0ea3c-cdd0-4222-99c3-21b38ad5f0b2",
