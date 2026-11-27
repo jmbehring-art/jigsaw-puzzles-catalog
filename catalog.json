@@ -1,5 +1,27 @@
 [
   {
+    "id": "ceca8977-455a-4ff3-b722-ca33359f3fb8",
+    "title": "Nebelkrähe am Scharmützelsee",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2017.07.04.-17-Scharmuetzelsee-Bad_Saarow--Nebelkraehe.jpg/1920px-2017.07.04.-17-Scharmuetzelsee-Bad_Saarow--Nebelkraehe.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2017.07.04.-17-Scharmuetzelsee-Bad_Saarow--Nebelkraehe.jpg/500px-2017.07.04.-17-Scharmuetzelsee-Bad_Saarow--Nebelkraehe.jpg",
+    "width": 1920,
+    "height": 1674,
+    "credit": "Andreas Eichler",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2017.07.04.-17-Scharmuetzelsee-Bad_Saarow--Nebelkraehe.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Eine Nebelkrähe sucht in einer blühenden Wiese am Scharmützelsee in Brandenburg nach Futter. Mit grauem Rumpf und schwarzem Kopf, schwarzen Flügeln und schwarzem Schwanz ist sie leicht von der ganz schwarzen Rabenkrähe zu unterscheiden. Östlich der Elbe ist sie in Deutschland die häufigste Krähe.",
+    "tags": [
+      "Natur",
+      "Tiere",
+      "Europa",
+      "Deutschland",
+      "DE"
+    ],
+    "added": "2026-11-27T14:54:36"
+  },
+  {
     "id": "e2639130-9d22-4b86-bb48-9b4157bc55f6",
     "title": "San Francisco in Arequipa",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Complejo_San_Francisco%2C_Arequipa%2C_Per%C3%BA%2C_2015-08-02%2C_DD_79-81_HDR.JPG/1920px-Complejo_San_Francisco%2C_Arequipa%2C_Per%C3%BA%2C_2015-08-02%2C_DD_79-81_HDR.JPG",
@@ -1157,27 +1179,6 @@
       "US"
     ],
     "added": "2026-11-13T13:20:51"
-  },
-  {
-    "id": "afa19cb4-142b-4567-8f00-0ed8f9e3a143",
-    "title": "Nebelkrähe am Golf von Triest",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Hooded_crow_%28Corvus_cornix%29_at_Gulf_of_Trieste.jpg/1920px-Hooded_crow_%28Corvus_cornix%29_at_Gulf_of_Trieste.jpg",
-    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Hooded_crow_%28Corvus_cornix%29_at_Gulf_of_Trieste.jpg/500px-Hooded_crow_%28Corvus_cornix%29_at_Gulf_of_Trieste.jpg",
-    "width": 1920,
-    "height": 1472,
-    "credit": "Petar Milošević",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Hooded_crow_(Corvus_cornix)_at_Gulf_of_Trieste.jpg",
-    "site": "Wikimedia Commons",
-    "about": "Eine Nebelkrähe steht auf einem sonnigen Felsen am Golf von Triest an der italienischen Adriaküste. Mit ihrem grauen Rumpf und dem schwarzen Kopf, den schwarzen Flügeln und dem schwarzen Schwanz ist sie gut von der ganz schwarzen Rabenkrähe zu unterscheiden. Das Auge wirkt hier bläulich, weil die Krähe gerade ihr durchsichtiges drittes Augenlid fast geschlossen hat, das Vögel zum Schutz und Befeuchten der Augen benutzen.",
-    "tags": [
-      "Natur",
-      "Tiere",
-      "Europa",
-      "IT"
-    ],
-    "added": "2026-11-13T11:21:04"
   },
   {
     "id": "f4b29b2e-ec8f-49e6-8fd2-551f36fddbe5",
