@@ -1,5 +1,103 @@
 [
   {
+    "id": "953e3116-6282-472f-a347-6c5b5068ac2e",
+    "title": "Die Auswirkungen der guten Regierung",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1920px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/500px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg",
+    "width": 1920,
+    "height": 925,
+    "credit": "Ambrogio Lorenzetti",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Ambrogio Lorenzetti malte dieses Fresko um 1338 im Rathaus von Siena, dem Palazzo Pubblico. Es zeigt eine friedliche, blühende Stadt: Handwerker arbeiten, Kaufleute handeln, Bauleute mauern, und in der Mitte tanzt eine Gruppe. Das Bild gehört zu den ersten großen Stadtansichten der europäischen Malerei.",
+    "tags": [
+      "Kunst"
+    ],
+    "added": "2026-11-28T08:09:30"
+  },
+  {
+    "id": "89c0a066-22bc-4cd2-ae18-9692960a29d2",
+    "title": "Mongu an der Sambesi-Ebene",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mongu_city_reaching_Zambezi_floodplains%2C_Western_province_Zambia.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Mongu_city_reaching_Zambezi_floodplains%2C_Western_province_Zambia.jpg/500px-Mongu_city_reaching_Zambezi_floodplains%2C_Western_province_Zambia.jpg",
+    "width": 1920,
+    "height": 1080,
+    "credit": "Petrtyl",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mongu_city_reaching_Zambezi_floodplains,_Western_province_Zambia.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Stadt Mongu im Westen Sambias liegt am Rand der weiten Überschwemmungsebene des Sambesi. In der Regenzeit steht das Land rundum unter Wasser, in der Trockenzeit zieht es sich auf die Flussarme zurück.",
+    "tags": [
+      "Afrika",
+      "Städte & Dörfer",
+      "ZM"
+    ],
+    "added": "2026-11-28T08:09:29"
+  },
+  {
+    "id": "1738ce23-a70f-4439-a195-6e0c18a0e613",
+    "title": "Löwenjunges am Baum",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lion_Cub_Scratching_Tree_Luangwa_Zambia_Jul23_A7C_06354.jpg/1920px-Lion_Cub_Scratching_Tree_Luangwa_Zambia_Jul23_A7C_06354.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lion_Cub_Scratching_Tree_Luangwa_Zambia_Jul23_A7C_06354.jpg/500px-Lion_Cub_Scratching_Tree_Luangwa_Zambia_Jul23_A7C_06354.jpg",
+    "width": 1920,
+    "height": 1440,
+    "credit": "Timothy A. Gonsalves",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lion_Cub_Scratching_Tree_Luangwa_Zambia_Jul23_A7C_06354.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Ein junger Löwe wetzt seine Krallen an einem Baumstamm. Aufgenommen wurde er im South-Luangwa-Nationalpark in Sambia, mitten im trockenen Gras der Savanne.",
+    "tags": [
+      "Afrika",
+      "Natur",
+      "Tiere",
+      "ZM"
+    ],
+    "added": "2026-11-28T08:09:28"
+  },
+  {
+    "id": "4f21fbb4-d76f-4c45-99b3-20dc6fea433e",
+    "title": "Sonnenuntergang am Luangwa",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Sunset_Luangwa_River_Zambia_Jul23_A7C_05789.jpg/1920px-Sunset_Luangwa_River_Zambia_Jul23_A7C_05789.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Sunset_Luangwa_River_Zambia_Jul23_A7C_05789.jpg/500px-Sunset_Luangwa_River_Zambia_Jul23_A7C_05789.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Timothy A. Gonsalves",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sunset_Luangwa_River_Zambia_Jul23_A7C_05789.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Über dem Luangwa im Osten Sambias geht die Sonne unter. Der Fluss schlängelt sich durch den South-Luangwa-Nationalpark, der für seinen Tierreichtum bekannt ist.",
+    "tags": [
+      "Afrika",
+      "Natur",
+      "ZM"
+    ],
+    "added": "2026-11-28T08:09:27"
+  },
+  {
+    "id": "a81cce4e-3a9d-4eee-9062-ae407a7ab407",
+    "title": "Victoriafälle mit Brücke",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_21.jpg/1920px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_21.jpg",
+    "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_21.jpg/500px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_21.jpg",
+    "width": 1920,
+    "height": 1033,
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_21.jpg",
+    "site": "Wikimedia Commons",
+    "about": "Die Victoriafälle liegen am Sambesi an der Grenze zwischen Sambia und Simbabwe. Über die Schlucht führt die Victoriafälle-Brücke von 1905, die beide Länder verbindet. Die Gischt ist oft schon von Weitem zu sehen.",
+    "tags": [
+      "Afrika",
+      "Natur",
+      "ZM"
+    ],
+    "added": "2026-11-28T08:09:26"
+  },
+  {
     "id": "ceca8977-455a-4ff3-b722-ca33359f3fb8",
     "title": "Nebelkrähe am Scharmützelsee",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2017.07.04.-17-Scharmuetzelsee-Bad_Saarow--Nebelkraehe.jpg/1920px-2017.07.04.-17-Scharmuetzelsee-Bad_Saarow--Nebelkraehe.jpg",
